@@ -1,0 +1,7 @@
+DivisionId,DivisionName,DiseasesQtyMalaria,DiseasesRankMalaria,DiseasesQtyGastroEnteritis,DiseasesRankGastroEnteritis,DiseasesQtyHIVAids,DiseasesRankHIVAids,DiseasesQtyTB,DiseasesRankTB,DiseasesQtyWorms,DiseasesRankWorms,DiseasesQtyURTILRTI,DiseasesRankURTILRTI,DiseasesQtyUTI,DiseasesRankUTI,DiseasesQtyGonorrhoea,DiseasesRankGonorrhoea,DiseasesQtySTD,DiseasesRankSTD,DiseasesQtySkinInfection,DiseasesRankSkinInfection,DiseasesQtyEyeInfection,DiseasesRankEyeInfection,DiseasesQtyAnaemia,DiseasesRankAnaemia,DiseasesQtyMalnutrition,DiseasesRankMalnutrition
+1,Baragoi,3562,0.0,1201,0,29,0,56,0,391,0,6463,0,221.0,0.0,90.0,0.0,30,0,846,0.0,502,0,44,0,54,0
+2,Kirisia,2689,6.0,1272,6,2,13,18,18,362,12,6872,4,1028.0,6.0,153.0,8.0,107,9,534,12.0,495,10,39,12,100,17
+3,Lorroki,8029,5.0,3877,17,11,12,94,18,993,15,8882,15,995.0,12.0,216.0,8.0,113,0,1388,12.0,1397,12,74,10,386,21
+4,Nyiro,2941,12.0,1106,13,0,0,22,11,209,9,4148,55,249.0,6.0,149.0,5.0,81,0,282,8.0,1211,7,89,12,713,0
+5,Wamba,16743,10.0,4521,26,150,18,47,27,2472,22,12232,18,638.0,27.0,426.0,30.0,180,15,3534,34.0,2040,32,134,45,157,33
+6,Waso,4246,6.0,2909,16,0,0,13,9,1595,19,5165,5,651.0,19.0,213.0,18.0,60,7,1510,15.0,2289,12,732,14,85,15
