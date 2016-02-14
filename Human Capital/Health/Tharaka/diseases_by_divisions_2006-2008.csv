@@ -1,0 +1,1854 @@
+year,Month,DISEASES,CENTRAL,NORTH,SOUTH
+2006,JAN,Diarhoheal Diseases,73.0,59.0,184.0
+2006,JAN,Tuberculosis,0.0,0.0,0.0
+2006,JAN,Leprosy,0.0,0.0,0.0
+2006,JAN,Whoopng Cough,0.0,0.0,0.0
+2006,JAN,Meningitis,0.0,0.0,0.0
+2006,JAN,Tetenus,0.0,0.0,0.0
+2006,JAN,Poliomyelitis,0.0,0.0,0.0
+2006,JAN,chicken Pox,20.0,1.0,10.0
+2006,JAN,Measles,2.0,0.0,0.0
+2006,JAN,Infections Hepatitis,0.0,0.0,3.0
+2006,JAN,Mumps,2.0,1.0,3.0
+2006,JAN,Malaria,3125.0,781.0,3626.0
+2006,JAN,Gonorrhea,0.0,8.0,5.0
+2006,JAN,Urinary Tract Infections,68.0,24.0,69.0
+2006,JAN,Bilharzia,0.0,0.0,0.0
+2006,JAN,Intestinal Worms,539.0,189.0,664.0
+2006,JAN,Malnutrition,0.0,0.0,3.0
+2006,JAN,Anaemia,3.0,2.0,3.0
+2006,JAN,Eye Infections,63.0,27.0,82.0
+2006,JAN,Cataract,0.0,0.0,3.0
+2006,JAN,ear infectins,120.0,39.0,151.0
+2006,JAN,Dis. Of circulatory systems,0.0,0.0,3.0
+2006,JAN,Dis of Respiratory systems,1882.0,284.0,1753.0
+2006,JAN,Pneumonia,30.0,31.0,261.0
+2006,JAN,Abortion,3.0,0.0,4.0
+2006,JAN,Dis. Of peuperium & child birth,1.0,1.0,17.0
+2006,JAN,Neoplasms,0.0,0.0,0.0
+2006,JAN,Dis. Of blood & blood forming organs,0.0,0.0,1.0
+2006,JAN,mental Disorders,7.0,0.0,7.0
+2006,JAN,Dental disorders,45.0,22.0,21.0
+2006,JAN,Dis. Of the skin,278.0,108.0,505.0
+2006,JAN,Rheumatisim,379.0,81.0,208.0
+2006,JAN,Congential Anomalis,0.0,0.0,0.0
+2006,JAN,Pyrexia of unknown origin,0.0,0.0,0.0
+2006,JAN,Poisoning,0.0,0.0,1.0
+2006,JAN,Accidents ( fructures & Burns),114.0,27.0,100.0
+2006,JAN,Typhoid ,12.0,34.0,0.0
+2006,JAN,Amebiasis,0.0,13.0,0.0
+2006,JAN,Diabetes,0.0,1.0,0.0
+2006,JAN,Epilepsy,0.0,0.0,0.0
+2006,JAN,SYPHILIS,0.0,0.0,0.0
+2006,JAN,HIV ,0.0,0.0,0.0
+2006,JAN,Assault,12.0,0.0,9.0
+2006,JAN,Snake bite,0.0,0.0,0.0
+2006,JAN,Other bites,1.0,9.0,0.0
+2006,JAN,Brucellosis,0.0,4.0,0.0
+2006,JAN,All other diseases,499.0,121.0,462.0
+2006,JAN,TOTAL NEW CASES,7278.0,1867.0,8158.0
+2006,JAN,Re-attendances(Re-visits),427.0,238.0,297.0
+2006,JAN,REFERRALS,4.0,3.0,9.0
+2006,JAN,No. of first Attendances,5161.0,1003.0,5622.0
+2006,JAN,Avrage dis. per Attendance,6.0,34.0,6.0
+2006,FEB,Diarhoheal Diseases,79.0,106.0,235.0
+2006,FEB,Tuberculosis,0.0,0.0,1.0
+2006,FEB,Leprosy,0.0,0.0,0.0
+2006,FEB,Whoopng Cough,0.0,0.0,0.0
+2006,FEB,Meningitis,0.0,0.0,0.0
+2006,FEB,Tetenus,0.0,0.0,0.0
+2006,FEB,Poliomyelitis,0.0,0.0,0.0
+2006,FEB,chicken Pox,2.0,0.0,8.0
+2006,FEB,Measles,1.0,4.0,9.0
+2006,FEB,Infections Hepatitis,0.0,0.0,2.0
+2006,FEB,Mumps,14.0,0.0,13.0
+2006,FEB,Malaria,3492.0,1036.0,4105.0
+2006,FEB,Gonorrhea,5.0,7.0,11.0
+2006,FEB,Urinary Tract Infections,51.0,30.0,85.0
+2006,FEB,Bilharzia,0.0,0.0,0.0
+2006,FEB,Intestinal Worms,542.0,250.0,787.0
+2006,FEB,Malnutrition,0.0,0.0,1.0
+2006,FEB,Anaemia,7.0,5.0,15.0
+2006,FEB,Eye Infections,43.0,45.0,120.0
+2006,FEB,Cataract,0.0,0.0,2.0
+2006,FEB,ear infectins,95.0,7.0,135.0
+2006,FEB,Dis. Of circulatory systems,6.0,0.0,3.0
+2006,FEB,Dis of Respiratory systems,2237.0,387.0,2057.0
+2006,FEB,Pneumonia,44.0,64.0,410.0
+2006,FEB,Abortion,2.0,0.0,2.0
+2006,FEB,Dis. Of peuperium & child birth,1.0,0.0,14.0
+2006,FEB,Neoplasms,0.0,0.0,0.0
+2006,FEB,Dis. Of blood & blood forming organs,5.0,0.0,1.0
+2006,FEB,mental Disorders,8.0,0.0,6.0
+2006,FEB,Dental disorders,33.0,9.0,32.0
+2006,FEB,Dis. Of the skin,261.0,114.0,461.0
+2006,FEB,Rheumatisim,270.0,139.0,349.0
+2006,FEB,Congential Anomalis,0.0,0.0,1.0
+2006,FEB,Pyrexia of unknown origin,3.0,0.0,0.0
+2006,FEB,Poisoning,0.0,0.0,0.0
+2006,FEB,Accidents ( fructures & Burns),90.0,26.0,114.0
+2006,FEB,Typhoid ,51.0,22.0,22.0
+2006,FEB,Amebiasis,0.0,0.0,0.0
+2006,FEB,Diabetes,0.0,0.0,0.0
+2006,FEB,Epilepsy,0.0,0.0,0.0
+2006,FEB,SYPHILIS,0.0,0.0,0.0
+2006,FEB,HIV ,0.0,0.0,0.0
+2006,FEB,Assault,0.0,2.0,16.0
+2006,FEB,Snake bite,0.0,0.0,0.0
+2006,FEB,Other bites,13.0,1.0,9.0
+2006,FEB,All other diseases,684.0,166.0,634.0
+2006,FEB,TOTAL NEW CASES,5668.0,1596.0,6600.0
+2006,FEB,Re-attendances(Re-visits),738.0,169.0,735.0
+2006,FEB,REFERRALS,208.0,1.0,13.0
+2006,FEB,No. of first Attendances,3911.0,410.0,4901.0
+2006,FEB,Avrage dis. per Attendance,0.0,0.0,1.0
+2006,MAR,Diarhoheal Diseases,89.0,27.0,174.0
+2006,MAR,Tuberculosis,0.0,0.0,0.0
+2006,MAR,Leprosy,0.0,0.0,0.0
+2006,MAR,Whoopng Cough,0.0,0.0,0.0
+2006,MAR,Meningitis,0.0,0.0,0.0
+2006,MAR,Tetenus,0.0,0.0,0.0
+2006,MAR,Poliomyelitis,0.0,0.0,0.0
+2006,MAR,chicken Pox,15.0,0.0,8.0
+2006,MAR,Measles,5.0,2.0,5.0
+2006,MAR,Infections Hepatitis,0.0,0.0,2.0
+2006,MAR,Mumps,1.0,1.0,13.0
+2006,MAR,Malaria,3783.0,744.0,4122.0
+2006,MAR,Gonorrhea,5.0,1.0,9.0
+2006,MAR,Urinary Tract Infections,54.0,15.0,77.0
+2006,MAR,Bilharzia,0.0,0.0,0.0
+2006,MAR,Intestinal Worms,616.0,136.0,661.0
+2006,MAR,Malnutrition,0.0,0.0,
+2006,MAR,Anaemia,4.0,0.0,80.0
+2006,MAR,Eye Infections,53.0,13.0,117.0
+2006,MAR,Cataract,0.0,0.0,2.0
+2006,MAR,ear infectins,97.0,25.0,164.0
+2006,MAR,Dis. Of circulatory systems,1.0,0.0,3.0
+2006,MAR,Dis of Respiratory systems,2543.0,297.0,1861.0
+2006,MAR,Pneumonia,46.0,45.0,466.0
+2006,MAR,Abortion,1.0,0.0,2.0
+2006,MAR,Dis. Of peuperium & child birth,0.0,0.0,17.0
+2006,MAR,Neoplasms,0.0,0.0,1.0
+2006,MAR,Dis. Of blood & blood forming organs,5.0,0.0,1.0
+2006,MAR,mental Disorders,6.0,0.0,7.0
+2006,MAR,Dental disorders,39.0,20.0,43.0
+2006,MAR,Dis. Of the skin,295.0,69.0,511.0
+2006,MAR,Rheumatisim,247.0,80.0,235.0
+2006,MAR,Congential Anomalis,0.0,0.0,1.0
+2006,MAR,Pyrexia of unknown origin,3.0,0.0,0.0
+2006,MAR,Poisoning,0.0,0.0,0.0
+2006,MAR,Accidents ( fructures & Burns),95.0,17.0,114.0
+2006,MAR,Typhoid ,20.0,24.0,0.0
+2006,MAR,Amebiasis,0.0,0.0,0.0
+2006,MAR,Diabetes,0.0,0.0,0.0
+2006,MAR,Epilepsy,0.0,0.0,0.0
+2006,MAR,SYPHILIS,0.0,0.0,0.0
+2006,MAR,HIV ,0.0,0.0,0.0
+2006,MAR,Assault,31.0,0.0,14.0
+2006,MAR,Snake bite,0.0,0.0,0.0
+2006,MAR,Other bites,0.0,1.0,0.0
+2006,MAR,All other diseases,456.0,24.0,487.0
+2006,MAR,TOTAL NEW CASES,8416.0,1523.0,9291.0
+2006,MAR,Re-attendances(Re-visits),1032.0,235.0,766.0
+2006,MAR,REFERRALS,9.0,3.0,14.0
+2006,MAR,No. of first Attendances,5437.0,590.0,5707.0
+2006,MAR,Avrage dis. per Attendance,0.0,0.0,2.0
+2006,APR,Diarhoheal Diseases,96.0,92.0,210.0
+2006,APR,Tuberculosis,0.0,0.0,0.0
+2006,APR,Leprosy,0.0,0.0,0.0
+2006,APR,Whoopng Cough,0.0,0.0,0.0
+2006,APR,Meningitis,0.0,0.0,0.0
+2006,APR,Tetenus,0.0,0.0,0.0
+2006,APR,Poliomyelitis,0.0,0.0,0.0
+2006,APR,chicken Pox,11.0,0.0,17.0
+2006,APR,Measles,31.0,34.0,3.0
+2006,APR,Infections Hepatitis,0.0,0.0,0.0
+2006,APR,Mumps,18.0,0.0,0.0
+2006,APR,Malaria,2363.0,799.0,2280.0
+2006,APR,Gonorrhea,0.0,0.0,2.0
+2006,APR,Urinary Tract Infections,65.0,18.0,53.0
+2006,APR,Bilharzia,0.0,0.0,0.0
+2006,APR,Intestinal Worms,445.0,151.0,547.0
+2006,APR,Malnutrition,0.0,0.0,15.0
+2006,APR,Anaemia,3.0,6.0,43.0
+2006,APR,Eye Infections,36.0,33.0,72.0
+2006,APR,Cataract,0.0,0.0,2.0
+2006,APR,ear infectins,63.0,42.0,150.0
+2006,APR,Dis. Of circulatory systems,0.0,0.0,3.0
+2006,APR,Dis of Respiratory systems,1870.0,297.0,1220.0
+2006,APR,Pneumonia,39.0,39.0,232.0
+2006,APR,Abortion,3.0,0.0,0.0
+2006,APR,Dis. Of peuperium & child birth,0.0,0.0,4.0
+2006,APR,Neoplasms,1.0,0.0,0.0
+2006,APR,Dis. Of blood & blood forming organs,0.0,0.0,12.0
+2006,APR,mental Disorders,0.0,0.0,3.0
+2006,APR,Dental disorders,22.0,16.0,18.0
+2006,APR,Dis. Of the skin,153.0,68.0,362.0
+2006,APR,Rheumatisim,183.0,80.0,292.0
+2006,APR,Congential Anomalis,0.0,0.0,0.0
+2006,APR,Pyrexia of unknown origin,1.0,0.0,0.0
+2006,APR,Poisoning,0.0,0.0,2.0
+2006,APR,Accidents ( fructures & Burns),67.0,16.0,88.0
+2006,APR,Typhoid ,5.0,22.0,1.0
+2006,APR,Amebiasis,0.0,23.0,0.0
+2006,APR,Diabetes,0.0,0.0,0.0
+2006,APR,Epilepsy,0.0,0.0,0.0
+2006,APR,SYPHILIS,0.0,0.0,0.0
+2006,APR,HIV ,0.0,0.0,0.0
+2006,APR,Assault,18.0,0.0,4.0
+2006,APR,Snake bite,4.0,0.0,0.0
+2006,APR,Other bites,1.0,1.0,0.0
+2006,APR,All other diseases,405.0,142.0,484.0
+2006,APR,TOTAL NEW CASES,11097.0,1850.0,4467.0
+2006,APR,Re-attendances(Re-visits),1432.0,384.0,965.0
+2006,APR,REFERRALS,0.0,0.0,8.0
+2006,APR,No. of first Attendances,3108.0,1055.0,3232.0
+2006,APR,Avrage dis. per Attendance,0.0,0.0,0.0
+2006,MAY,Diarhoheal Diseases,190.0,97.0,361.0
+2006,MAY,Tuberculosis,0.0,0.0,0.0
+2006,MAY,Leprosy,0.0,0.0,0.0
+2006,MAY,Whoopng Cough,0.0,0.0,0.0
+2006,MAY,Meningitis,0.0,0.0,0.0
+2006,MAY,Tetenus,0.0,0.0,0.0
+2006,MAY,Poliomyelitis,0.0,0.0,0.0
+2006,MAY,chicken Pox,5.0,0.0,15.0
+2006,MAY,Measles,42.0,25.0,33.0
+2006,MAY,Infections Hepatitis,0.0,0.0,2.0
+2006,MAY,Mumps,13.0,4.0,46.0
+2006,MAY,Malaria,2623.0,1011.0,3455.0
+2006,MAY,Gonorrhea,0.0,1.0,8.0
+2006,MAY,Urinary Tract Infections,57.0,27.0,86.0
+2006,MAY,Bilharzia,0.0,0.0,0.0
+2006,MAY,Intestinal Worms,632.0,203.0,837.0
+2006,MAY,Malnutrition,0.0,0.0,3.0
+2006,MAY,Anaemia,3.0,7.0,61.0
+2006,MAY,Eye Infections,105.0,47.0,135.0
+2006,MAY,Cataract,3.0,0.0,1.0
+2006,MAY,ear infectins,83.0,42.0,231.0
+2006,MAY,Dis. Of circulatory systems,3.0,3.0,4.0
+2006,MAY,Dis of Respiratory systems,1909.0,425.0,1849.0
+2006,MAY,Pneumonia,161.0,39.0,242.0
+2006,MAY,Abortion,3.0,3.0,9.0
+2006,MAY,Dis. Of peuperium & child birth,0.0,0.0,16.0
+2006,MAY,Neoplasms,0.0,0.0,0.0
+2006,MAY,Dis. Of blood & blood forming organs,0.0,0.0,0.0
+2006,MAY,mental Disorders,2.0,0.0,8.0
+2006,MAY,Dental disorders,33.0,67.0,89.0
+2006,MAY,Dis. Of the skin,256.0,86.0,541.0
+2006,MAY,Rheumatisim,224.0,33.0,336.0
+2006,MAY,Congential Anomalis,1.0,0.0,1.0
+2006,MAY,Pyrexia of unknown origin,1.0,0.0,0.0
+2006,MAY,Poisoning,0.0,2.0,2.0
+2006,MAY,Accidents ( fructures & Burns),54.0,21.0,21.0
+2006,MAY,Typhoid ,0.0,58.0,58.0
+2006,MAY,Amebiasis,0.0,15.0,15.0
+2006,MAY,Diabetes,0.0,0.0,0.0
+2006,MAY,Epilepsy,0.0,0.0,0.0
+2006,MAY,SYPHILIS,0.0,0.0,0.0
+2006,MAY,HIV ,0.0,0.0,0.0
+2006,MAY,Assault,40.0,2.0,7.0
+2006,MAY,Snake bite,61.0,0.0,0.0
+2006,MAY,Other bites,8.0,0.0,0.0
+2006,MAY,All other diseases,547.0,151.0,680.0
+2006,MAY,TOTAL NEW CASES,7814.0,2136.0,9207.0
+2006,MAY,Re-attendances(Re-visits),1654.0,238.0,1365.0
+2006,MAY,REFERRALS,16.0,1.0,20.0
+2006,MAY,No. of first Attendances,4463.0,240.0,3880.0
+2006,MAY,Avrage dis. per Attendance,0.0,0.0,32.0
+2006,JUN,Diarhoheal Diseases,105.0,97.0,170.0
+2006,JUN,Tuberculosis,0.0,0.0,3.0
+2006,JUN,Leprosy,0.0,0.0,1.0
+2006,JUN,Whoopng Cough,0.0,0.0,0.0
+2006,JUN,Meningitis,0.0,0.0,0.0
+2006,JUN,Tetenus,0.0,0.0,0.0
+2006,JUN,Poliomyelitis,0.0,0.0,0.0
+2006,JUN,chicken Pox,12.0,0.0,10.0
+2006,JUN,Measles,31.0,3.0,6.0
+2006,JUN,Infections Hepatitis,0.0,0.0,3.0
+2006,JUN,Mumps,20.0,0.0,79.0
+2006,JUN,Malaria,3651.0,683.0,2724.0
+2006,JUN,Gonorrhea,0.0,1.0,8.0
+2006,JUN,Urinary Tract Infections,52.0,21.0,64.0
+2006,JUN,Bilharzia,0.0,1.0,0.0
+2006,JUN,Intestinal Worms,750.0,150.0,830.0
+2006,JUN,Malnutrition,0.0,10.0,1.0
+2006,JUN,Anaemia,1.0,4.0,42.0
+2006,JUN,Eye Infections,148.0,36.0,126.0
+2006,JUN,Cataract,2.0,0.0,1.0
+2006,JUN,ear infectins,121.0,29.0,171.0
+2006,JUN,Dis. Of circulatory systems,0.0,0.0,0.0
+2006,JUN,Dis of Respiratory systems,2275.0,396.0,1502.0
+2006,JUN,Pneumonia,183.0,56.0,249.0
+2006,JUN,Abortion,7.0,0.0,9.0
+2006,JUN,Dis. Of peuperium & child birth,1.0,0.0,20.0
+2006,JUN,Neoplasms,0.0,0.0,0.0
+2006,JUN,Dis. Of blood & blood forming organs,1.0,2.0,3.0
+2006,JUN,mental Disorders,6.0,0.0,5.0
+2006,JUN,Dental disorders,46.0,29.0,37.0
+2006,JUN,Dis. Of the skin,257.0,32.0,417.0
+2006,JUN,Rheumatisim,316.0,105.0,283.0
+2006,JUN,Congential Anomalis,0.0,0.0,0.0
+2006,JUN,Pyrexia of unknown origin,0.0,0.0,0.0
+2006,JUN,Poisoning,2.0,1.0,2.0
+2006,JUN,Accidents ( fructures & Burns),78.0,17.0,136.0
+2006,JUN,Typhoid ,57.0,42.0,13.0
+2006,JUN,Amebiasis,0.0,15.0,0.0
+2006,JUN,Diabetes,0.0,0.0,0.0
+2006,JUN,Epilepsy,0.0,0.0,0.0
+2006,JUN,SYPHILIS,0.0,0.0,0.0
+2006,JUN,HIV ,0.0,0.0,0.0
+2006,JUN,Assault,42.0,1.0,29.0
+2006,JUN,Snake bite,0.0,0.0,1.0
+2006,JUN,Other bites,2.0,2.0,0.0
+2006,JUN,All other diseases,713.0,198.0,530.0
+2006,JUN,TOTAL NEW CASES,8826.0,1928.0,7496.0
+2006,JUN,Re-attendances(Re-visits),2021.0,387.0,1353.0
+2006,JUN,REFERRALS,18.0,1.0,15.0
+2006,JUN,No. of first Attendances,4557.0,1612.0,3543.0
+2006,JUN,Avrage dis. per Attendance,0.0,0.0,0.0
+2006,JUL,Diarhoheal Diseases,113.0,12.0,247.0
+2006,JUL,Tuberculosis,0.0,0.0,3.0
+2006,JUL,Leprosy,0.0,0.0,0.0
+2006,JUL,Whoopng Cough,0.0,0.0,0.0
+2006,JUL,Meningitis,0.0,0.0,0.0
+2006,JUL,Tetenus,0.0,0.0,0.0
+2006,JUL,Poliomyelitis,0.0,0.0,0.0
+2006,JUL,chicken Pox,82.0,0.0,47.0
+2006,JUL,Measles,18.0,4.0,6.0
+2006,JUL,Infections Hepatitis,1.0,0.0,9.0
+2006,JUL,Mumps,50.0,1.0,168.0
+2006,JUL,Malaria,3517.0,290.0,3054.0
+2006,JUL,Gonorrhea,1.0,2.0,3.0
+2006,JUL,Urinary Tract Infections,40.0,14.0,82.0
+2006,JUL,Bilharzia,0.0,0.0,0.0
+2006,JUL,Intestinal Worms,791.0,78.0,827.0
+2006,JUL,Malnutrition,0.0,0.0,4.0
+2006,JUL,Anaemia,0.0,0.0,17.0
+2006,JUL,Eye Infections,180.0,2.0,109.0
+2006,JUL,Cataract,3.0,0.0,1.0
+2006,JUL,ear infectins,118.0,15.0,171.0
+2006,JUL,Dis. Of circulatory systems,0.0,1.0,0.0
+2006,JUL,Dis of Respiratory systems,2590.0,88.0,1828.0
+2006,JUL,Pneumonia,98.0,10.0,253.0
+2006,JUL,Abortion,3.0,0.0,12.0
+2006,JUL,Dis. Of peuperium & child birth,0.0,0.0,12.0
+2006,JUL,Neoplasms,0.0,0.0,0.0
+2006,JUL,Dis. Of blood & blood forming organs,0.0,0.0,1.0
+2006,JUL,mental Disorders,0.0,0.0,7.0
+2006,JUL,Dental disorders,45.0,5.0,38.0
+2006,JUL,Dis. Of the skin,221.0,19.0,530.0
+2006,JUL,Rheumatisim,411.0,36.0,330.0
+2006,JUL,Congential Anomalis,1.0,35.0,0.0
+2006,JUL,Pyrexia of unknown origin,0.0,0.0,0.0
+2006,JUL,Poisoning,0.0,0.0,0.0
+2006,JUL,Accidents ( fructures & Burns),103.0,7.0,146.0
+2006,JUL,Typhoid ,36.0,42.0,2.0
+2006,JUL,Amebiasis,0.0,24.0,0.0
+2006,JUL,Diabetes,0.0,0.0,0.0
+2006,JUL,Epilepsy,0.0,1.0,1.0
+2006,JUL,SYPHILIS,0.0,0.0,0.0
+2006,JUL,HIV ,0.0,0.0,0.0
+2006,JUL,Assault,64.0,0.0,12.0
+2006,JUL,Snake bite,2.0,0.0,0.0
+2006,JUL,Other bites,13.0,1.0,0.0
+2006,JUL,All other diseases,758.0,0.0,578.0
+2006,JUL,TOTAL NEW CASES,9259.0,687.0,8498.0
+2006,JUL,Re-attendances(Re-visits),2266.0,135.0,1546.0
+2006,JUL,REFERRALS,27.0,1.0,17.0
+2006,JUL,No. of first Attendances,4816.0,507.0,4194.0
+2006,JUL,Avrage dis. per Attendance,7.0,2.0,24.0
+2006,AUG,Diarhoheal Diseases,78.0,72.0,83.0
+2006,AUG,Tuberculosis,0.0,0.0,5.0
+2006,AUG,Leprosy,0.0,0.0,0.0
+2006,AUG,Whoopng Cough,0.0,0.0,0.0
+2006,AUG,Meningitis,0.0,0.0,0.0
+2006,AUG,Tetenus,0.0,0.0,0.0
+2006,AUG,Poliomyelitis,0.0,0.0,0.0
+2006,AUG,chicken Pox,15.0,0.0,31.0
+2006,AUG,Measles,10.0,24.0,1.0
+2006,AUG,Infections Hepatitis,0.0,0.0,1.0
+2006,AUG,Mumps,9.0,2.0,95.0
+2006,AUG,Malaria,1841.0,520.0,1663.0
+2006,AUG,Gonorrhea,1.0,7.0,7.0
+2006,AUG,Urinary Tract Infections,52.0,22.0,73.0
+2006,AUG,Bilharzia,0.0,0.0,8.0
+2006,AUG,Intestinal Worms,354.0,126.0,497.0
+2006,AUG,Malnutrition,0.0,0.0,0.0
+2006,AUG,Anaemia,2.0,5.0,1.0
+2006,AUG,Eye Infections,43.0,35.0,58.0
+2006,AUG,Cataract,0.0,0.0,0.0
+2006,AUG,ear infectins,50.0,30.0,82.0
+2006,AUG,Dis. Of circulatory systems,0.0,2.0,1.0
+2006,AUG,Dis of Respiratory systems,1318.0,147.0,1007.0
+2006,AUG,Pneumonia,9.0,34.0,67.0
+2006,AUG,Abortion,1.0,0.0,4.0
+2006,AUG,Dis. Of peuperium & child birth,1.0,1.0,2.0
+2006,AUG,Neoplasms,0.0,0.0,0.0
+2006,AUG,Dis. Of blood & blood forming organs,0.0,0.0,0.0
+2006,AUG,mental Disorders,1.0,0.0,1.0
+2006,AUG,Dental disorders,48.0,43.0,17.0
+2006,AUG,Dis. Of the skin,172.0,44.0,251.0
+2006,AUG,Rheumatisim,191.0,73.0,99.0
+2006,AUG,Congential Anomalis,0.0,2.0,1.0
+2006,AUG,Pyrexia of unknown origin,0.0,0.0,0.0
+2006,AUG,Poisoning,0.0,0.0,0.0
+2006,AUG,Accidents ( fructures & Burns),76.0,34.0,85.0
+2006,AUG,Typhoid ,9.0,46.0,2.0
+2006,AUG,Amebiasis,0.0,16.0,0.0
+2006,AUG,Diabetes,0.0,0.0,0.0
+2006,AUG,Epilepsy,0.0,0.0,0.0
+2006,AUG,SYPHILIS,0.0,0.0,0.0
+2006,AUG,HIV ,0.0,0.0,0.0
+2006,AUG,Assault,50.0,0.0,20.0
+2006,AUG,Snake bite,11.0,0.0,0.0
+2006,AUG,Other bites,0.0,4.0,5.0
+2006,AUG,All other diseases,386.0,125.0,447.0
+2006,AUG,TOTAL NEW CASES,4728.0,1414.0,4614.0
+2006,AUG,Re-attendances(Re-visits),1314.0,252.0,354.0
+2006,AUG,REFERRALS,1.0,0.0,5.0
+2006,AUG,No. of first Attendances,2281.0,1116.0,1448.0
+2006,AUG,Avrage dis. per Attendance,6.0,3.0,37.0
+2006,SEP,Diarhoheal Diseases,110.0,132.0,200.0
+2006,SEP,Tuberculosis,2.0,0.0,6.0
+2006,SEP,Leprosy,0.0,0.0,0.0
+2006,SEP,Whoopng Cough,0.0,0.0,0.0
+2006,SEP,Meningitis,0.0,0.0,0.0
+2006,SEP,Tetenus,0.0,0.0,0.0
+2006,SEP,Poliomyelitis,0.0,0.0,0.0
+2006,SEP,chicken Pox,14.0,1.0,18.0
+2006,SEP,Measles,71.0,12.0,2.0
+2006,SEP,Infections Hepatitis,2.0,0.0,0.0
+2006,SEP,Mumps,14.0,40.0,56.0
+2006,SEP,Malaria,2990.0,1743.0,2550.0
+2006,SEP,Gonorrhea,5.0,0.0,7.0
+2006,SEP,Urinary Tract Infections,193.0,114.0,63.0
+2006,SEP,Bilharzia,0.0,0.0,0.0
+2006,SEP,Intestinal Worms,693.0,523.0,755.0
+2006,SEP,Malnutrition,0.0,17.0,3.0
+2006,SEP,Anaemia,1.0,33.0,7.0
+2006,SEP,Eye Infections,83.0,62.0,101.0
+2006,SEP,Cataract,0.0,0.0,0.0
+2006,SEP,ear infectins,86.0,56.0,149.0
+2006,SEP,Dis. Of circulatory systems,56.0,6.0,4.0
+2006,SEP,Dis of Respiratory systems,1654.0,916.0,1095.0
+2006,SEP,Pneumonia,48.0,83.0,138.0
+2006,SEP,Abortion,5.0,0.0,6.0
+2006,SEP,Dis. Of peuperium & child birth,0.0,15.0,12.0
+2006,SEP,Neoplasms,0.0,0.0,0.0
+2006,SEP,Dis. Of blood & blood forming organs,1.0,5.0,0.0
+2006,SEP,mental Disorders,5.0,2.0,6.0
+2006,SEP,Dental disorders,36.0,68.0,41.0
+2006,SEP,Dis. Of the skin,257.0,142.0,389.0
+2006,SEP,Rheumatisim,227.0,275.0,266.0
+2006,SEP,Congential Anomalis,0.0,1.0,2.0
+2006,SEP,Pyrexia of unknown origin,0.0,0.0,0.0
+2006,SEP,Poisoning,0.0,3.0,0.0
+2006,SEP,Accidents ( fructures & Burns),133.0,72.0,122.0
+2006,SEP,Typhoid ,20.0,34.0,1.0
+2006,SEP,Amebiasis,0.0,22.0,66.0
+2006,SEP,Diabetes,0.0,0.0,0.0
+2006,SEP,Epilepsy,0.0,0.0,1.0
+2006,SEP,SYPHILIS,0.0,0.0,0.0
+2006,SEP,HIV ,0.0,0.0,0.0
+2006,SEP,Assault,36.0,0.0,21.0
+2006,SEP,Snake bite,6.0,4.0,1.0
+2006,SEP,Other bites,0.0,0.0,9.0
+2006,SEP,All other diseases,398.0,95.0,556.0
+2006,SEP,TOTAL NEW CASES,7146.0,4476.0,6654.0
+2006,SEP,Re-attendances(Re-visits),2092.0,861.0,1337.0
+2006,SEP,REFERRALS,7.0,8.0,11.0
+2006,SEP,No. of first Attendances,3741.0,2144.0,3118.0
+2006,SEP,Average dis. per Attendance,7.0,4.0,23.0
+2006,OCT,Diarhoheal Diseases,98.0,79.0,146.0
+2006,OCT,Tuberculosis,1.0,1.0,0.0
+2006,OCT,Leprosy,0.0,0.0,0.0
+2006,OCT,Whoopng Cough,0.0,0.0,0.0
+2006,OCT,Meningitis,0.0,0.0,0.0
+2006,OCT,Tetenus,0.0,0.0,0.0
+2006,OCT,Poliomyelitis,0.0,0.0,0.0
+2006,OCT,chicken Pox,29.0,0.0,10.0
+2006,OCT,Measles,39.0,17.0,3.0
+2006,OCT,Infections Hepatitis,0.0,0.0,3.0
+2006,OCT,Mumps,26.0,5.0,31.0
+2006,OCT,Malaria,2264.0,1176.0,1926.0
+2006,OCT,Gonorrhea,0.0,1.0,6.0
+2006,OCT,Urinary Tract Infections,72.0,24.0,66.0
+2006,OCT,Bilharzia,1.0,213.0,0.0
+2006,OCT,Intestinal Worms,684.0,165.0,571.0
+2006,OCT,Malnutrition,1.0,9.0,0.0
+2006,OCT,Anaemia,1.0,11.0,5.0
+2006,OCT,Eye Infections,118.0,36.0,68.0
+2006,OCT,Cataract,0.0,14.0,2.0
+2006,OCT,ear infectins,88.0,39.0,103.0
+2006,OCT,Dis. Of circulatory systems,4.0,0.0,2.0
+2006,OCT,Dis of Respiratory systems,1873.0,504.0,916.0
+2006,OCT,Pneumonia,27.0,44.0,93.0
+2006,OCT,Abortion,3.0,0.0,3.0
+2006,OCT,Dis. Of peuperium & child birth,0.0,2.0,4.0
+2006,OCT,Neoplasms,0.0,0.0,0.0
+2006,OCT,Dis. Of blood & blood forming organs,0.0,0.0,0.0
+2006,OCT,mental Disorders,2.0,2.0,4.0
+2006,OCT,Dental disorders,51.0,36.0,44.0
+2006,OCT,Dis. Of the skin,219.0,89.0,295.0
+2006,OCT,Rheumatisim,247.0,141.0,106.0
+2006,OCT,Congential Anomalis,2.0,0.0,0.0
+2006,OCT,Pyrexia of unknown origin,1.0,0.0,0.0
+2006,OCT,Poisoning,0.0,0.0,0.0
+2006,OCT,Accidents ( fructures & Burns),105.0,41.0,116.0
+2006,OCT,Typhoid ,14.0,73.0,0.0
+2006,OCT,Amebiasis,0.0,29.0,0.0
+2006,OCT,Diabetes,0.0,0.0,0.0
+2006,OCT,Epilepsy,29.0,0.0,0.0
+2006,OCT,SYPHILIS,8.0,0.0,0.0
+2006,OCT,HIV ,0.0,0.0,0.0
+2006,OCT,Assault,7.0,5.0,16.0
+2006,OCT,Snake bite,6.0,0.0,0.0
+2006,OCT,Other bites,1.0,2.0,1.0
+2006,OCT,All other diseases,653.0,235.0,532.0
+2006,OCT,TOTAL NEW CASES,6674.0,2993.0,5072.0
+2006,OCT,Re-attendances(Re-visits),1534.0,368.0,966.0
+2006,OCT,REFERRALS,0.0,29.0,7.0
+2006,OCT,No. of first Attendances,2632.0,1362.0,2426.0
+2006,OCT,Avrage dis. per Attendance,7.0,150.0,61.0
+2006,NOV,Diarhoheal Diseases,114.0,210.0,161.0
+2006,NOV,Tuberculosis,5.0,0.0,2.0
+2006,NOV,Leprosy,0.0,0.0,0.0
+2006,NOV,Whoopng Cough,0.0,0.0,0.0
+2006,NOV,Meningitis,0.0,0.0,0.0
+2006,NOV,Tetenus,0.0,0.0,0.0
+2006,NOV,Poliomyelitis,0.0,0.0,0.0
+2006,NOV,chicken Pox,17.0,2.0,5.0
+2006,NOV,Measles,22.0,2.0,2.0
+2006,NOV,Infections Hepatitis,0.0,0.0,0.0
+2006,NOV,Mumps,25.0,15.0,37.0
+2006,NOV,Malaria,2369.0,995.0,2186.0
+2006,NOV,Gonorrhea,0.0,4.0,5.0
+2006,NOV,Urinary Tract Infections,61.0,16.0,47.0
+2006,NOV,Bilharzia,0.0,0.0,0.0
+2006,NOV,Intestinal Worms,564.0,243.0,482.0
+2006,NOV,Malnutrition,2.0,5.0,0.0
+2006,NOV,Anaemia,0.0,31.0,15.0
+2006,NOV,Eye Infections,94.0,39.0,68.0
+2006,NOV,Cataract,0.0,1.0,0.0
+2006,NOV,ear infectins,116.0,55.0,101.0
+2006,NOV,Dis. Of circulatory systems,24.0,0.0,2.0
+2006,NOV,Dis of Respiratory systems,1576.0,529.0,983.0
+2006,NOV,Pneumonia,57.0,89.0,141.0
+2006,NOV,Abortion,3.0,0.0,2.0
+2006,NOV,Dis. Of peuperium & child birth,1.0,0.0,18.0
+2006,NOV,Neoplasms,0.0,0.0,0.0
+2006,NOV,Dis. Of blood & blood forming organs,0.0,0.0,1.0
+2006,NOV,mental Disorders,10.0,3.0,3.0
+2006,NOV,Dental disorders,49.0,30.0,47.0
+2006,NOV,Dis. Of the skin,320.0,55.0,321.0
+2006,NOV,Rheumatisim,226.0,145.0,189.0
+2006,NOV,Congential Anomalis,0.0,0.0,0.0
+2006,NOV,Pyrexia of unknown origin,0.0,0.0,2.0
+2006,NOV,Poisoning,0.0,0.0,0.0
+2006,NOV,Accidents ( fructures & Burns),91.0,35.0,159.0
+2006,NOV,Typhoid ,37.0,28.0,4.0
+2006,NOV,Amebiasis,0.0,15.0,81.0
+2006,NOV,Diabetes,0.0,0.0,0.0
+2006,NOV,Epilepsy,0.0,0.0,0.0
+2006,NOV,SYPHILIS,0.0,0.0,0.0
+2006,NOV,HIV ,0.0,0.0,0.0
+2006,NOV,Assault,36.0,2.0,15.0
+2006,NOV,Snake bite,0.0,0.0,0.0
+2006,NOV,Other bites,14.0,2.0,8.0
+2006,NOV,All other diseases,564.0,143.0,422.0
+2006,NOV,TOTAL NEW CASES,6397.0,2694.0,5509.0
+2006,NOV,Re-attendances(Re-visits),1842.0,181.0,1158.0
+2006,NOV,REFERRALS,12.0,1.0,16.0
+2006,NOV,No. of first Attendances,2880.0,1192.0,2667.0
+2006,NOV,Avrage dis. per Attendance,7.0,4.0,22.0
+2006,DEC,Diarhoheal Diseases,78.0,61.0,77.0
+2006,DEC,Tuberculosis,5.0,0.0,3.0
+2006,DEC,Leprosy,0.0,0.0,0.0
+2006,DEC,Whoopng Cough,0.0,0.0,0.0
+2006,DEC,Meningitis,0.0,0.0,0.0
+2006,DEC,Tetenus,0.0,0.0,0.0
+2006,DEC,Poliomyelitis,0.0,0.0,0.0
+2006,DEC,chicken Pox,4.0,2.0,2.0
+2006,DEC,Measles,17.0,0.0,0.0
+2006,DEC,Infections Hepatitis,0.0,0.0,0.0
+2006,DEC,Mumps,35.0,7.0,9.0
+2006,DEC,Malaria,1589.0,837.0,1751.0
+2006,DEC,Gonorrhea,1.0,4.0,2.0
+2006,DEC,Urinary Tract Infections,43.0,29.0,40.0
+2006,DEC,Bilharzia,0.0,0.0,2.0
+2006,DEC,Intestinal Worms,248.0,140.0,428.0
+2006,DEC,Malnutrition,0.0,0.0,1.0
+2006,DEC,Anaemia,1.0,7.0,22.0
+2006,DEC,Eye Infections,43.0,34.0,32.0
+2006,DEC,Cataract,0.0,1.0,0.0
+2006,DEC,ear infectins,76.0,41.0,102.0
+2006,DEC,Dis. Of circulatory systems,32.0,0.0,2.0
+2006,DEC,Dis of Respiratory systems,994.0,270.0,939.0
+2006,DEC,Pneumonia,37.0,33.0,95.0
+2006,DEC,Abortion,5.0,1.0,9.0
+2006,DEC,Dis. Of peuperium & child birth,0.0,0.0,2.0
+2006,DEC,Neoplasms,0.0,0.0,0.0
+2006,DEC,Dis. Of blood & blood forming organs,2.0,1.0,0.0
+2006,DEC,mental Disorders,4.0,0.0,5.0
+2006,DEC,Dental disorders,15.0,18.0,38.0
+2006,DEC,Dis. Of the skin,228.0,97.0,357.0
+2006,DEC,Rheumatisim,183.0,105.0,121.0
+2006,DEC,Congential Anomalis,3.0,0.0,0.0
+2006,DEC,Pyrexia of unknown origin,1.0,0.0,5.0
+2006,DEC,Poisoning,1.0,0.0,0.0
+2006,DEC,Accidents ( fructures & Burns),68.0,17.0,78.0
+2006,DEC,Typhoid ,50.0,53.0,2.0
+2006,DEC,Amebiasis,0.0,54.0,17.0
+2006,DEC,Diabetes,0.0,7.0,0.0
+2006,DEC,Epilepsy,0.0,0.0,0.0
+2006,DEC,SYPHILIS,0.0,0.0,0.0
+2006,DEC,HIV ,0.0,0.0,0.0
+2006,DEC,Assault,39.0,0.0,21.0
+2006,DEC,Snake bite,0.0,0.0,0.0
+2006,DEC,Other bites,0.0,0.0,6.0
+2006,DEC,Dog bite,16.0,0.0,2.0
+2006,DEC,BRUCELLOSIS,0.0,3.0,1.0
+2006,DEC,All other diseases,508.0,137.0,101.0
+2006,DEC,TOTAL NEW CASES,4326.0,1959.0,4272.0
+2006,DEC,Re-attendances(Re-visits),931.0,236.0,937.0
+2006,DEC,REFERRALS,2.0,3.0,9.0
+2006,DEC,No. of first Attendances,1767.0,801.0,2220.0
+2006,DEC,Avrage dis. per Attendance,6.0,843.0,46.0
+2007,JAN,Diarhoheal Diseases,73.0,59.0,184.0
+2007,JAN,Tuberculosis,0.0,0.0,0.0
+2007,JAN,Leprosy,0.0,0.0,0.0
+2007,JAN,Whoopng Cough,0.0,0.0,0.0
+2007,JAN,Meningitis,0.0,0.0,0.0
+2007,JAN,Tetenus,0.0,0.0,0.0
+2007,JAN,Poliomyelitis,0.0,0.0,0.0
+2007,JAN,chicken Pox,20.0,1.0,10.0
+2007,JAN,Measles,2.0,0.0,0.0
+2007,JAN,Infections Hepatitis,0.0,0.0,3.0
+2007,JAN,Mumps,2.0,1.0,3.0
+2007,JAN,Malaria,3125.0,781.0,3626.0
+2007,JAN,Gonorrhea,0.0,8.0,5.0
+2007,JAN,Urinary Tract Infections,68.0,24.0,69.0
+2007,JAN,Bilharzia,0.0,0.0,0.0
+2007,JAN,Intestinal Worms,539.0,189.0,664.0
+2007,JAN,Malnutrition,0.0,0.0,3.0
+2007,JAN,Anaemia,3.0,2.0,3.0
+2007,JAN,Eye Infections,63.0,27.0,82.0
+2007,JAN,Cataract,0.0,0.0,3.0
+2007,JAN,ear infectins,120.0,39.0,151.0
+2007,JAN,Dis. Of circulatory systems,0.0,0.0,3.0
+2007,JAN,Dis of Respiratory systems,1882.0,284.0,1753.0
+2007,JAN,Pneumonia,30.0,31.0,261.0
+2007,JAN,Abortion,3.0,0.0,4.0
+2007,JAN,Dis. Of peuperium & child birth,1.0,1.0,17.0
+2007,JAN,Neoplasms,0.0,0.0,0.0
+2007,JAN,Dis. Of blood & blood forming organs,0.0,0.0,1.0
+2007,JAN,mental Disorders,7.0,0.0,7.0
+2007,JAN,Dental disorders,45.0,22.0,21.0
+2007,JAN,Dis. Of the skin,278.0,108.0,505.0
+2007,JAN,Rheumatisim,379.0,81.0,208.0
+2007,JAN,Congential Anomalis,0.0,0.0,0.0
+2007,JAN,Pyrexia of unknown origin,0.0,0.0,0.0
+2007,JAN,Poisoning,0.0,0.0,1.0
+2007,JAN,Accidents ( fructures & Burns),114.0,27.0,100.0
+2007,JAN,Typhoid ,12.0,34.0,0.0
+2007,JAN,Amebiasis,0.0,13.0,0.0
+2007,JAN,Diabetes,0.0,1.0,0.0
+2007,JAN,Epilepsy,0.0,0.0,0.0
+2007,JAN,SYPHILIS,0.0,0.0,0.0
+2007,JAN,HIV ,0.0,0.0,0.0
+2007,JAN,Assault,12.0,0.0,9.0
+2007,JAN,Snake bite,0.0,0.0,0.0
+2007,JAN,Other bites,1.0,9.0,0.0
+2007,JAN,Brucellosis,0.0,4.0,0.0
+2007,JAN,All other diseases,499.0,121.0,462.0
+2007,JAN,TOTAL NEW CASES,7278.0,1867.0,8158.0
+2007,JAN,Re-attendances(Re-visits),427.0,238.0,297.0
+2007,JAN,REFERRALS,4.0,3.0,9.0
+2007,JAN,No. of first Attendances,5161.0,1003.0,5622.0
+2007,JAN,Avrage dis. per Attendance,6.0,34.0,6.0
+2007,FEB,Diarhoheal Diseases,79.0,106.0,235.0
+2007,FEB,Tuberculosis,0.0,0.0,1.0
+2007,FEB,Leprosy,0.0,0.0,0.0
+2007,FEB,Whoopng Cough,0.0,0.0,0.0
+2007,FEB,Meningitis,0.0,0.0,0.0
+2007,FEB,Tetenus,0.0,0.0,0.0
+2007,FEB,Poliomyelitis,0.0,0.0,0.0
+2007,FEB,chicken Pox,2.0,0.0,8.0
+2007,FEB,Measles,1.0,4.0,9.0
+2007,FEB,Infections Hepatitis,0.0,0.0,2.0
+2007,FEB,Mumps,14.0,0.0,13.0
+2007,FEB,Malaria,3492.0,1036.0,4105.0
+2007,FEB,Gonorrhea,5.0,7.0,11.0
+2007,FEB,Urinary Tract Infections,51.0,30.0,85.0
+2007,FEB,Bilharzia,0.0,0.0,0.0
+2007,FEB,Intestinal Worms,542.0,250.0,787.0
+2007,FEB,Malnutrition,0.0,0.0,1.0
+2007,FEB,Anaemia,7.0,5.0,15.0
+2007,FEB,Eye Infections,43.0,45.0,120.0
+2007,FEB,Cataract,0.0,0.0,2.0
+2007,FEB,ear infectins,95.0,7.0,135.0
+2007,FEB,Dis. Of circulatory systems,6.0,0.0,3.0
+2007,FEB,Dis of Respiratory systems,2237.0,387.0,2057.0
+2007,FEB,Pneumonia,44.0,64.0,410.0
+2007,FEB,Abortion,2.0,0.0,2.0
+2007,FEB,Dis. Of peuperium & child birth,1.0,0.0,14.0
+2007,FEB,Neoplasms,0.0,0.0,0.0
+2007,FEB,Dis. Of blood & blood forming organs,5.0,0.0,1.0
+2007,FEB,mental Disorders,8.0,0.0,6.0
+2007,FEB,Dental disorders,33.0,9.0,32.0
+2007,FEB,Dis. Of the skin,261.0,114.0,461.0
+2007,FEB,Rheumatisim,270.0,139.0,349.0
+2007,FEB,Congential Anomalis,0.0,0.0,1.0
+2007,FEB,Pyrexia of unknown origin,3.0,0.0,0.0
+2007,FEB,Poisoning,0.0,0.0,0.0
+2007,FEB,Accidents ( fructures & Burns),90.0,26.0,114.0
+2007,FEB,Typhoid ,51.0,22.0,22.0
+2007,FEB,Amebiasis,0.0,0.0,0.0
+2007,FEB,Diabetes,0.0,0.0,0.0
+2007,FEB,Epilepsy,0.0,0.0,0.0
+2007,FEB,SYPHILIS,0.0,0.0,0.0
+2007,FEB,HIV ,0.0,0.0,0.0
+2007,FEB,Assault,0.0,2.0,16.0
+2007,FEB,Snake bite,0.0,0.0,0.0
+2007,FEB,Other bites,13.0,1.0,9.0
+2007,FEB,All other diseases,684.0,166.0,634.0
+2007,FEB,TOTAL NEW CASES,5668.0,1596.0,6600.0
+2007,FEB,Re-attendances(Re-visits),738.0,169.0,735.0
+2007,FEB,REFERRALS,208.0,1.0,13.0
+2007,FEB,No. of first Attendances,3911.0,410.0,4901.0
+2007,FEB,Avrage dis. per Attendance,0.0,0.0,1.0
+2007,MAR,Diarhoheal Diseases,89.0,27.0,174.0
+2007,MAR,Tuberculosis,0.0,0.0,0.0
+2007,MAR,Leprosy,0.0,0.0,0.0
+2007,MAR,Whoopng Cough,0.0,0.0,0.0
+2007,MAR,Meningitis,0.0,0.0,0.0
+2007,MAR,Tetenus,0.0,0.0,0.0
+2007,MAR,Poliomyelitis,0.0,0.0,0.0
+2007,MAR,chicken Pox,15.0,0.0,8.0
+2007,MAR,Measles,5.0,2.0,5.0
+2007,MAR,Infections Hepatitis,0.0,0.0,2.0
+2007,MAR,Mumps,1.0,1.0,13.0
+2007,MAR,Malaria,3783.0,744.0,4122.0
+2007,MAR,Gonorrhea,5.0,1.0,9.0
+2007,MAR,Urinary Tract Infections,54.0,15.0,77.0
+2007,MAR,Bilharzia,0.0,0.0,0.0
+2007,MAR,Intestinal Worms,616.0,136.0,661.0
+2007,MAR,Malnutrition,0.0,0.0,
+2007,MAR,Anaemia,4.0,0.0,80.0
+2007,MAR,Eye Infections,53.0,13.0,117.0
+2007,MAR,Cataract,0.0,0.0,2.0
+2007,MAR,ear infectins,97.0,25.0,164.0
+2007,MAR,Dis. Of circulatory systems,1.0,0.0,3.0
+2007,MAR,Dis of Respiratory systems,2543.0,297.0,1861.0
+2007,MAR,Pneumonia,46.0,45.0,466.0
+2007,MAR,Abortion,1.0,0.0,2.0
+2007,MAR,Dis. Of peuperium & child birth,0.0,0.0,17.0
+2007,MAR,Neoplasms,0.0,0.0,1.0
+2007,MAR,Dis. Of blood & blood forming organs,5.0,0.0,1.0
+2007,MAR,mental Disorders,6.0,0.0,7.0
+2007,MAR,Dental disorders,39.0,20.0,43.0
+2007,MAR,Dis. Of the skin,295.0,69.0,511.0
+2007,MAR,Rheumatisim,247.0,80.0,235.0
+2007,MAR,Congential Anomalis,0.0,0.0,1.0
+2007,MAR,Pyrexia of unknown origin,3.0,0.0,0.0
+2007,MAR,Poisoning,0.0,0.0,0.0
+2007,MAR,Accidents ( fructures & Burns),95.0,17.0,114.0
+2007,MAR,Typhoid ,20.0,24.0,0.0
+2007,MAR,Amebiasis,0.0,0.0,0.0
+2007,MAR,Diabetes,0.0,0.0,0.0
+2007,MAR,Epilepsy,0.0,0.0,0.0
+2007,MAR,SYPHILIS,0.0,0.0,0.0
+2007,MAR,HIV ,0.0,0.0,0.0
+2007,MAR,Assault,31.0,0.0,14.0
+2007,MAR,Snake bite,0.0,0.0,0.0
+2007,MAR,Other bites,0.0,1.0,0.0
+2007,MAR,All other diseases,456.0,24.0,487.0
+2007,MAR,TOTAL NEW CASES,8416.0,1523.0,9291.0
+2007,MAR,Re-attendances(Re-visits),1032.0,235.0,766.0
+2007,MAR,REFERRALS,9.0,3.0,14.0
+2007,MAR,No. of first Attendances,5437.0,590.0,5707.0
+2007,MAR,Avrage dis. per Attendance,0.0,0.0,2.0
+2007,APR,Diarhoheal Diseases,96.0,92.0,210.0
+2007,APR,Tuberculosis,0.0,0.0,0.0
+2007,APR,Leprosy,0.0,0.0,0.0
+2007,APR,Whoopng Cough,0.0,0.0,0.0
+2007,APR,Meningitis,0.0,0.0,0.0
+2007,APR,Tetenus,0.0,0.0,0.0
+2007,APR,Poliomyelitis,0.0,0.0,0.0
+2007,APR,chicken Pox,11.0,0.0,17.0
+2007,APR,Measles,31.0,34.0,3.0
+2007,APR,Infections Hepatitis,0.0,0.0,0.0
+2007,APR,Mumps,18.0,0.0,0.0
+2007,APR,Malaria,2363.0,799.0,2280.0
+2007,APR,Gonorrhea,0.0,0.0,2.0
+2007,APR,Urinary Tract Infections,65.0,18.0,53.0
+2007,APR,Bilharzia,0.0,0.0,0.0
+2007,APR,Intestinal Worms,445.0,151.0,547.0
+2007,APR,Malnutrition,0.0,0.0,15.0
+2007,APR,Anaemia,3.0,6.0,43.0
+2007,APR,Eye Infections,36.0,33.0,72.0
+2007,APR,Cataract,0.0,0.0,2.0
+2007,APR,ear infectins,63.0,42.0,150.0
+2007,APR,Dis. Of circulatory systems,0.0,0.0,3.0
+2007,APR,Dis of Respiratory systems,1870.0,297.0,1220.0
+2007,APR,Pneumonia,39.0,39.0,232.0
+2007,APR,Abortion,3.0,0.0,0.0
+2007,APR,Dis. Of peuperium & child birth,0.0,0.0,4.0
+2007,APR,Neoplasms,1.0,0.0,0.0
+2007,APR,Dis. Of blood & blood forming organs,0.0,0.0,12.0
+2007,APR,mental Disorders,0.0,0.0,3.0
+2007,APR,Dental disorders,22.0,16.0,18.0
+2007,APR,Dis. Of the skin,153.0,68.0,362.0
+2007,APR,Rheumatisim,183.0,80.0,292.0
+2007,APR,Congential Anomalis,0.0,0.0,0.0
+2007,APR,Pyrexia of unknown origin,1.0,0.0,0.0
+2007,APR,Poisoning,0.0,0.0,2.0
+2007,APR,Accidents ( fructures & Burns),67.0,16.0,88.0
+2007,APR,Typhoid ,5.0,22.0,1.0
+2007,APR,Amebiasis,0.0,23.0,0.0
+2007,APR,Diabetes,0.0,0.0,0.0
+2007,APR,Epilepsy,0.0,0.0,0.0
+2007,APR,SYPHILIS,0.0,0.0,0.0
+2007,APR,HIV ,0.0,0.0,0.0
+2007,APR,Assault,18.0,0.0,4.0
+2007,APR,Snake bite,4.0,0.0,0.0
+2007,APR,Other bites,1.0,1.0,0.0
+2007,APR,All other diseases,405.0,142.0,484.0
+2007,APR,TOTAL NEW CASES,11097.0,1850.0,4467.0
+2007,APR,Re-attendances(Re-visits),1432.0,384.0,965.0
+2007,APR,REFERRALS,0.0,0.0,8.0
+2007,APR,No. of first Attendances,3108.0,1055.0,3232.0
+2007,APR,Avrage dis. per Attendance,0.0,0.0,0.0
+2007,MAY,Diarhoheal Diseases,190.0,97.0,361.0
+2007,MAY,Tuberculosis,0.0,0.0,0.0
+2007,MAY,Leprosy,0.0,0.0,0.0
+2007,MAY,Whoopng Cough,0.0,0.0,0.0
+2007,MAY,Meningitis,0.0,0.0,0.0
+2007,MAY,Tetenus,0.0,0.0,0.0
+2007,MAY,Poliomyelitis,0.0,0.0,0.0
+2007,MAY,chicken Pox,5.0,0.0,15.0
+2007,MAY,Measles,42.0,25.0,33.0
+2007,MAY,Infections Hepatitis,0.0,0.0,2.0
+2007,MAY,Mumps,13.0,4.0,46.0
+2007,MAY,Malaria,2623.0,1011.0,3455.0
+2007,MAY,Gonorrhea,0.0,1.0,8.0
+2007,MAY,Urinary Tract Infections,57.0,27.0,86.0
+2007,MAY,Bilharzia,0.0,0.0,0.0
+2007,MAY,Intestinal Worms,632.0,203.0,837.0
+2007,MAY,Malnutrition,0.0,0.0,3.0
+2007,MAY,Anaemia,3.0,7.0,61.0
+2007,MAY,Eye Infections,105.0,47.0,135.0
+2007,MAY,Cataract,3.0,0.0,1.0
+2007,MAY,ear infectins,83.0,42.0,231.0
+2007,MAY,Dis. Of circulatory systems,3.0,3.0,4.0
+2007,MAY,Dis of Respiratory systems,1909.0,425.0,1849.0
+2007,MAY,Pneumonia,161.0,39.0,242.0
+2007,MAY,Abortion,3.0,3.0,9.0
+2007,MAY,Dis. Of peuperium & child birth,0.0,0.0,16.0
+2007,MAY,Neoplasms,0.0,0.0,0.0
+2007,MAY,Dis. Of blood & blood forming organs,0.0,0.0,0.0
+2007,MAY,mental Disorders,2.0,0.0,8.0
+2007,MAY,Dental disorders,33.0,67.0,89.0
+2007,MAY,Dis. Of the skin,256.0,86.0,541.0
+2007,MAY,Rheumatisim,224.0,33.0,336.0
+2007,MAY,Congential Anomalis,1.0,0.0,1.0
+2007,MAY,Pyrexia of unknown origin,1.0,0.0,0.0
+2007,MAY,Poisoning,0.0,2.0,2.0
+2007,MAY,Accidents ( fructures & Burns),54.0,21.0,21.0
+2007,MAY,Typhoid ,0.0,58.0,58.0
+2007,MAY,Amebiasis,0.0,15.0,15.0
+2007,MAY,Diabetes,0.0,0.0,0.0
+2007,MAY,Epilepsy,0.0,0.0,0.0
+2007,MAY,SYPHILIS,0.0,0.0,0.0
+2007,MAY,HIV ,0.0,0.0,0.0
+2007,MAY,Assault,40.0,2.0,7.0
+2007,MAY,Snake bite,61.0,0.0,0.0
+2007,MAY,Other bites,8.0,0.0,0.0
+2007,MAY,All other diseases,547.0,151.0,680.0
+2007,MAY,TOTAL NEW CASES,7814.0,2136.0,9207.0
+2007,MAY,Re-attendances(Re-visits),1654.0,238.0,1365.0
+2007,MAY,REFERRALS,16.0,1.0,20.0
+2007,MAY,No. of first Attendances,4463.0,240.0,3880.0
+2007,MAY,Avrage dis. per Attendance,0.0,0.0,32.0
+2007,JUN,Diarhoheal Diseases,105.0,97.0,170.0
+2007,JUN,Tuberculosis,0.0,0.0,3.0
+2007,JUN,Leprosy,0.0,0.0,1.0
+2007,JUN,Whoopng Cough,0.0,0.0,0.0
+2007,JUN,Meningitis,0.0,0.0,0.0
+2007,JUN,Tetenus,0.0,0.0,0.0
+2007,JUN,Poliomyelitis,0.0,0.0,0.0
+2007,JUN,chicken Pox,12.0,0.0,10.0
+2007,JUN,Measles,31.0,3.0,6.0
+2007,JUN,Infections Hepatitis,0.0,0.0,3.0
+2007,JUN,Mumps,20.0,0.0,79.0
+2007,JUN,Malaria,3651.0,683.0,2724.0
+2007,JUN,Gonorrhea,0.0,1.0,8.0
+2007,JUN,Urinary Tract Infections,52.0,21.0,64.0
+2007,JUN,Bilharzia,0.0,1.0,0.0
+2007,JUN,Intestinal Worms,750.0,150.0,830.0
+2007,JUN,Malnutrition,0.0,10.0,1.0
+2007,JUN,Anaemia,1.0,4.0,42.0
+2007,JUN,Eye Infections,148.0,36.0,126.0
+2007,JUN,Cataract,2.0,0.0,1.0
+2007,JUN,ear infectins,121.0,29.0,171.0
+2007,JUN,Dis. Of circulatory systems,0.0,0.0,0.0
+2007,JUN,Dis of Respiratory systems,2275.0,396.0,1502.0
+2007,JUN,Pneumonia,183.0,56.0,249.0
+2007,JUN,Abortion,7.0,0.0,9.0
+2007,JUN,Dis. Of peuperium & child birth,1.0,0.0,20.0
+2007,JUN,Neoplasms,0.0,0.0,0.0
+2007,JUN,Dis. Of blood & blood forming organs,1.0,2.0,3.0
+2007,JUN,mental Disorders,6.0,0.0,5.0
+2007,JUN,Dental disorders,46.0,29.0,37.0
+2007,JUN,Dis. Of the skin,257.0,32.0,417.0
+2007,JUN,Rheumatisim,316.0,105.0,283.0
+2007,JUN,Congential Anomalis,0.0,0.0,0.0
+2007,JUN,Pyrexia of unknown origin,0.0,0.0,0.0
+2007,JUN,Poisoning,2.0,1.0,2.0
+2007,JUN,Accidents ( fructures & Burns),78.0,17.0,136.0
+2007,JUN,Typhoid ,57.0,42.0,13.0
+2007,JUN,Amebiasis,0.0,15.0,0.0
+2007,JUN,Diabetes,0.0,0.0,0.0
+2007,JUN,Epilepsy,0.0,0.0,0.0
+2007,JUN,SYPHILIS,0.0,0.0,0.0
+2007,JUN,HIV ,0.0,0.0,0.0
+2007,JUN,Assault,42.0,1.0,29.0
+2007,JUN,Snake bite,0.0,0.0,1.0
+2007,JUN,Other bites,2.0,2.0,0.0
+2007,JUN,All other diseases,713.0,198.0,530.0
+2007,JUN,TOTAL NEW CASES,8826.0,1928.0,7496.0
+2007,JUN,Re-attendances(Re-visits),2021.0,387.0,1353.0
+2007,JUN,REFERRALS,18.0,1.0,15.0
+2007,JUN,No. of first Attendances,4557.0,1612.0,3543.0
+2007,JUN,Avrage dis. per Attendance,0.0,0.0,0.0
+2007,JUL,Diarhoheal Diseases,113.0,12.0,247.0
+2007,JUL,Tuberculosis,0.0,0.0,3.0
+2007,JUL,Leprosy,0.0,0.0,0.0
+2007,JUL,Whoopng Cough,0.0,0.0,0.0
+2007,JUL,Meningitis,0.0,0.0,0.0
+2007,JUL,Tetenus,0.0,0.0,0.0
+2007,JUL,Poliomyelitis,0.0,0.0,0.0
+2007,JUL,chicken Pox,82.0,0.0,47.0
+2007,JUL,Measles,18.0,4.0,6.0
+2007,JUL,Infections Hepatitis,1.0,0.0,9.0
+2007,JUL,Mumps,50.0,1.0,168.0
+2007,JUL,Malaria,3517.0,290.0,3054.0
+2007,JUL,Gonorrhea,1.0,2.0,3.0
+2007,JUL,Urinary Tract Infections,40.0,14.0,82.0
+2007,JUL,Bilharzia,0.0,0.0,0.0
+2007,JUL,Intestinal Worms,791.0,78.0,827.0
+2007,JUL,Malnutrition,0.0,0.0,4.0
+2007,JUL,Anaemia,0.0,0.0,17.0
+2007,JUL,Eye Infections,180.0,2.0,109.0
+2007,JUL,Cataract,3.0,0.0,1.0
+2007,JUL,ear infectins,118.0,15.0,171.0
+2007,JUL,Dis. Of circulatory systems,0.0,1.0,0.0
+2007,JUL,Dis of Respiratory systems,2590.0,88.0,1828.0
+2007,JUL,Pneumonia,98.0,10.0,253.0
+2007,JUL,Abortion,3.0,0.0,12.0
+2007,JUL,Dis. Of peuperium & child birth,0.0,0.0,12.0
+2007,JUL,Neoplasms,0.0,0.0,0.0
+2007,JUL,Dis. Of blood & blood forming organs,0.0,0.0,1.0
+2007,JUL,mental Disorders,0.0,0.0,7.0
+2007,JUL,Dental disorders,45.0,5.0,38.0
+2007,JUL,Dis. Of the skin,221.0,19.0,530.0
+2007,JUL,Rheumatisim,411.0,36.0,330.0
+2007,JUL,Congential Anomalis,1.0,35.0,0.0
+2007,JUL,Pyrexia of unknown origin,0.0,0.0,0.0
+2007,JUL,Poisoning,0.0,0.0,0.0
+2007,JUL,Accidents ( fructures & Burns),103.0,7.0,146.0
+2007,JUL,Typhoid ,36.0,42.0,2.0
+2007,JUL,Amebiasis,0.0,24.0,0.0
+2007,JUL,Diabetes,0.0,0.0,0.0
+2007,JUL,Epilepsy,0.0,1.0,1.0
+2007,JUL,SYPHILIS,0.0,0.0,0.0
+2007,JUL,HIV ,0.0,0.0,0.0
+2007,JUL,Assault,64.0,0.0,12.0
+2007,JUL,Snake bite,2.0,0.0,0.0
+2007,JUL,Other bites,13.0,1.0,0.0
+2007,JUL,All other diseases,758.0,0.0,578.0
+2007,JUL,TOTAL NEW CASES,9259.0,687.0,8498.0
+2007,JUL,Re-attendances(Re-visits),2266.0,135.0,1546.0
+2007,JUL,REFERRALS,27.0,1.0,17.0
+2007,JUL,No. of first Attendances,4816.0,507.0,4194.0
+2007,JUL,Avrage dis. per Attendance,7.0,2.0,24.0
+2007,AUG,Diarhoheal Diseases,78.0,72.0,83.0
+2007,AUG,Tuberculosis,0.0,0.0,5.0
+2007,AUG,Leprosy,0.0,0.0,0.0
+2007,AUG,Whoopng Cough,0.0,0.0,0.0
+2007,AUG,Meningitis,0.0,0.0,0.0
+2007,AUG,Tetenus,0.0,0.0,0.0
+2007,AUG,Poliomyelitis,0.0,0.0,0.0
+2007,AUG,chicken Pox,15.0,0.0,31.0
+2007,AUG,Measles,10.0,24.0,1.0
+2007,AUG,Infections Hepatitis,0.0,0.0,1.0
+2007,AUG,Mumps,9.0,2.0,95.0
+2007,AUG,Malaria,1841.0,520.0,1663.0
+2007,AUG,Gonorrhea,1.0,7.0,7.0
+2007,AUG,Urinary Tract Infections,52.0,22.0,73.0
+2007,AUG,Bilharzia,0.0,0.0,8.0
+2007,AUG,Intestinal Worms,354.0,126.0,497.0
+2007,AUG,Malnutrition,0.0,0.0,0.0
+2007,AUG,Anaemia,2.0,5.0,1.0
+2007,AUG,Eye Infections,43.0,35.0,58.0
+2007,AUG,Cataract,0.0,0.0,0.0
+2007,AUG,ear infectins,50.0,30.0,82.0
+2007,AUG,Dis. Of circulatory systems,0.0,2.0,1.0
+2007,AUG,Dis of Respiratory systems,1318.0,147.0,1007.0
+2007,AUG,Pneumonia,9.0,34.0,67.0
+2007,AUG,Abortion,1.0,0.0,4.0
+2007,AUG,Dis. Of peuperium & child birth,1.0,1.0,2.0
+2007,AUG,Neoplasms,0.0,0.0,0.0
+2007,AUG,Dis. Of blood & blood forming organs,0.0,0.0,0.0
+2007,AUG,mental Disorders,1.0,0.0,1.0
+2007,AUG,Dental disorders,48.0,43.0,17.0
+2007,AUG,Dis. Of the skin,172.0,44.0,251.0
+2007,AUG,Rheumatisim,191.0,73.0,99.0
+2007,AUG,Congential Anomalis,0.0,2.0,1.0
+2007,AUG,Pyrexia of unknown origin,0.0,0.0,0.0
+2007,AUG,Poisoning,0.0,0.0,0.0
+2007,AUG,Accidents ( fructures & Burns),76.0,34.0,85.0
+2007,AUG,Typhoid ,9.0,46.0,2.0
+2007,AUG,Amebiasis,0.0,16.0,0.0
+2007,AUG,Diabetes,0.0,0.0,0.0
+2007,AUG,Epilepsy,0.0,0.0,0.0
+2007,AUG,SYPHILIS,0.0,0.0,0.0
+2007,AUG,HIV ,0.0,0.0,0.0
+2007,AUG,Assault,50.0,0.0,20.0
+2007,AUG,Snake bite,11.0,0.0,0.0
+2007,AUG,Other bites,0.0,4.0,5.0
+2007,AUG,All other diseases,386.0,125.0,447.0
+2007,AUG,TOTAL NEW CASES,4728.0,1414.0,4614.0
+2007,AUG,Re-attendances(Re-visits),1314.0,252.0,354.0
+2007,AUG,REFERRALS,1.0,0.0,5.0
+2007,AUG,No. of first Attendances,2281.0,1116.0,1448.0
+2007,AUG,Avrage dis. per Attendance,6.0,3.0,37.0
+2007,SEP,Diarhoheal Diseases,110.0,132.0,200.0
+2007,SEP,Tuberculosis,2.0,0.0,6.0
+2007,SEP,Leprosy,0.0,0.0,0.0
+2007,SEP,Whoopng Cough,0.0,0.0,0.0
+2007,SEP,Meningitis,0.0,0.0,0.0
+2007,SEP,Tetenus,0.0,0.0,0.0
+2007,SEP,Poliomyelitis,0.0,0.0,0.0
+2007,SEP,chicken Pox,14.0,1.0,18.0
+2007,SEP,Measles,71.0,12.0,2.0
+2007,SEP,Infections Hepatitis,2.0,0.0,0.0
+2007,SEP,Mumps,14.0,40.0,56.0
+2007,SEP,Malaria,2990.0,1743.0,2550.0
+2007,SEP,Gonorrhea,5.0,0.0,7.0
+2007,SEP,Urinary Tract Infections,193.0,114.0,63.0
+2007,SEP,Bilharzia,0.0,0.0,0.0
+2007,SEP,Intestinal Worms,693.0,523.0,755.0
+2007,SEP,Malnutrition,0.0,17.0,3.0
+2007,SEP,Anaemia,1.0,33.0,7.0
+2007,SEP,Eye Infections,83.0,62.0,101.0
+2007,SEP,Cataract,0.0,0.0,0.0
+2007,SEP,ear infectins,86.0,56.0,149.0
+2007,SEP,Dis. Of circulatory systems,56.0,6.0,4.0
+2007,SEP,Dis of Respiratory systems,1654.0,916.0,1095.0
+2007,SEP,Pneumonia,48.0,83.0,138.0
+2007,SEP,Abortion,5.0,0.0,6.0
+2007,SEP,Dis. Of peuperium & child birth,0.0,15.0,12.0
+2007,SEP,Neoplasms,0.0,0.0,0.0
+2007,SEP,Dis. Of blood & blood forming organs,1.0,5.0,0.0
+2007,SEP,mental Disorders,5.0,2.0,6.0
+2007,SEP,Dental disorders,36.0,68.0,41.0
+2007,SEP,Dis. Of the skin,257.0,142.0,389.0
+2007,SEP,Rheumatisim,227.0,275.0,266.0
+2007,SEP,Congential Anomalis,0.0,1.0,2.0
+2007,SEP,Pyrexia of unknown origin,0.0,0.0,0.0
+2007,SEP,Poisoning,0.0,3.0,0.0
+2007,SEP,Accidents ( fructures & Burns),133.0,72.0,122.0
+2007,SEP,Typhoid ,20.0,34.0,1.0
+2007,SEP,Amebiasis,0.0,22.0,66.0
+2007,SEP,Diabetes,0.0,0.0,0.0
+2007,SEP,Epilepsy,0.0,0.0,1.0
+2007,SEP,SYPHILIS,0.0,0.0,0.0
+2007,SEP,HIV ,0.0,0.0,0.0
+2007,SEP,Assault,36.0,0.0,21.0
+2007,SEP,Snake bite,6.0,4.0,1.0
+2007,SEP,Other bites,0.0,0.0,9.0
+2007,SEP,All other diseases,398.0,95.0,556.0
+2007,SEP,TOTAL NEW CASES,7146.0,4476.0,6654.0
+2007,SEP,Re-attendances(Re-visits),2092.0,861.0,1337.0
+2007,SEP,REFERRALS,7.0,8.0,11.0
+2007,SEP,No. of first Attendances,3741.0,2144.0,3118.0
+2007,SEP,Average dis. per Attendance,7.0,4.0,23.0
+2007,OCT,Diarhoheal Diseases,98.0,79.0,146.0
+2007,OCT,Tuberculosis,1.0,1.0,0.0
+2007,OCT,Leprosy,0.0,0.0,0.0
+2007,OCT,Whoopng Cough,0.0,0.0,0.0
+2007,OCT,Meningitis,0.0,0.0,0.0
+2007,OCT,Tetenus,0.0,0.0,0.0
+2007,OCT,Poliomyelitis,0.0,0.0,0.0
+2007,OCT,chicken Pox,29.0,0.0,10.0
+2007,OCT,Measles,39.0,17.0,3.0
+2007,OCT,Infections Hepatitis,0.0,0.0,3.0
+2007,OCT,Mumps,26.0,5.0,31.0
+2007,OCT,Malaria,2264.0,1176.0,1926.0
+2007,OCT,Gonorrhea,0.0,1.0,6.0
+2007,OCT,Urinary Tract Infections,72.0,24.0,66.0
+2007,OCT,Bilharzia,1.0,213.0,0.0
+2007,OCT,Intestinal Worms,684.0,165.0,571.0
+2007,OCT,Malnutrition,1.0,9.0,0.0
+2007,OCT,Anaemia,1.0,11.0,5.0
+2007,OCT,Eye Infections,118.0,36.0,68.0
+2007,OCT,Cataract,0.0,14.0,2.0
+2007,OCT,ear infectins,88.0,39.0,103.0
+2007,OCT,Dis. Of circulatory systems,4.0,0.0,2.0
+2007,OCT,Dis of Respiratory systems,1873.0,504.0,916.0
+2007,OCT,Pneumonia,27.0,44.0,93.0
+2007,OCT,Abortion,3.0,0.0,3.0
+2007,OCT,Dis. Of peuperium & child birth,0.0,2.0,4.0
+2007,OCT,Neoplasms,0.0,0.0,0.0
+2007,OCT,Dis. Of blood & blood forming organs,0.0,0.0,0.0
+2007,OCT,mental Disorders,2.0,2.0,4.0
+2007,OCT,Dental disorders,51.0,36.0,44.0
+2007,OCT,Dis. Of the skin,219.0,89.0,295.0
+2007,OCT,Rheumatisim,247.0,141.0,106.0
+2007,OCT,Congential Anomalis,2.0,0.0,0.0
+2007,OCT,Pyrexia of unknown origin,1.0,0.0,0.0
+2007,OCT,Poisoning,0.0,0.0,0.0
+2007,OCT,Accidents ( fructures & Burns),105.0,41.0,116.0
+2007,OCT,Typhoid ,14.0,73.0,0.0
+2007,OCT,Amebiasis,0.0,29.0,0.0
+2007,OCT,Diabetes,0.0,0.0,0.0
+2007,OCT,Epilepsy,29.0,0.0,0.0
+2007,OCT,SYPHILIS,8.0,0.0,0.0
+2007,OCT,HIV ,0.0,0.0,0.0
+2007,OCT,Assault,7.0,5.0,16.0
+2007,OCT,Snake bite,6.0,0.0,0.0
+2007,OCT,Other bites,1.0,2.0,1.0
+2007,OCT,All other diseases,653.0,235.0,532.0
+2007,OCT,TOTAL NEW CASES,6674.0,2993.0,5072.0
+2007,OCT,Re-attendances(Re-visits),1534.0,368.0,966.0
+2007,OCT,REFERRALS,0.0,29.0,7.0
+2007,OCT,No. of first Attendances,2632.0,1362.0,2426.0
+2007,OCT,Avrage dis. per Attendance,7.0,150.0,61.0
+2007,NOV,Diarhoheal Diseases,114.0,210.0,161.0
+2007,NOV,Tuberculosis,5.0,0.0,2.0
+2007,NOV,Leprosy,0.0,0.0,0.0
+2007,NOV,Whoopng Cough,0.0,0.0,0.0
+2007,NOV,Meningitis,0.0,0.0,0.0
+2007,NOV,Tetenus,0.0,0.0,0.0
+2007,NOV,Poliomyelitis,0.0,0.0,0.0
+2007,NOV,chicken Pox,17.0,2.0,5.0
+2007,NOV,Measles,22.0,2.0,2.0
+2007,NOV,Infections Hepatitis,0.0,0.0,0.0
+2007,NOV,Mumps,25.0,15.0,37.0
+2007,NOV,Malaria,2369.0,995.0,2186.0
+2007,NOV,Gonorrhea,0.0,4.0,5.0
+2007,NOV,Urinary Tract Infections,61.0,16.0,47.0
+2007,NOV,Bilharzia,0.0,0.0,0.0
+2007,NOV,Intestinal Worms,564.0,243.0,482.0
+2007,NOV,Malnutrition,2.0,5.0,0.0
+2007,NOV,Anaemia,0.0,31.0,15.0
+2007,NOV,Eye Infections,94.0,39.0,68.0
+2007,NOV,Cataract,0.0,1.0,0.0
+2007,NOV,ear infectins,116.0,55.0,101.0
+2007,NOV,Dis. Of circulatory systems,24.0,0.0,2.0
+2007,NOV,Dis of Respiratory systems,1576.0,529.0,983.0
+2007,NOV,Pneumonia,57.0,89.0,141.0
+2007,NOV,Abortion,3.0,0.0,2.0
+2007,NOV,Dis. Of peuperium & child birth,1.0,0.0,18.0
+2007,NOV,Neoplasms,0.0,0.0,0.0
+2007,NOV,Dis. Of blood & blood forming organs,0.0,0.0,1.0
+2007,NOV,mental Disorders,10.0,3.0,3.0
+2007,NOV,Dental disorders,49.0,30.0,47.0
+2007,NOV,Dis. Of the skin,320.0,55.0,321.0
+2007,NOV,Rheumatisim,226.0,145.0,189.0
+2007,NOV,Congential Anomalis,0.0,0.0,0.0
+2007,NOV,Pyrexia of unknown origin,0.0,0.0,2.0
+2007,NOV,Poisoning,0.0,0.0,0.0
+2007,NOV,Accidents ( fructures & Burns),91.0,35.0,159.0
+2007,NOV,Typhoid ,37.0,28.0,4.0
+2007,NOV,Amebiasis,0.0,15.0,81.0
+2007,NOV,Diabetes,0.0,0.0,0.0
+2007,NOV,Epilepsy,0.0,0.0,0.0
+2007,NOV,SYPHILIS,0.0,0.0,0.0
+2007,NOV,HIV ,0.0,0.0,0.0
+2007,NOV,Assault,36.0,2.0,15.0
+2007,NOV,Snake bite,0.0,0.0,0.0
+2007,NOV,Other bites,14.0,2.0,8.0
+2007,NOV,All other diseases,564.0,143.0,422.0
+2007,NOV,TOTAL NEW CASES,6397.0,2694.0,5509.0
+2007,NOV,Re-attendances(Re-visits),1842.0,181.0,1158.0
+2007,NOV,REFERRALS,12.0,1.0,16.0
+2007,NOV,No. of first Attendances,2880.0,1192.0,2667.0
+2007,NOV,Avrage dis. per Attendance,7.0,4.0,22.0
+2007,DEC,Diarhoheal Diseases,78.0,61.0,77.0
+2007,DEC,Tuberculosis,5.0,0.0,3.0
+2007,DEC,Leprosy,0.0,0.0,0.0
+2007,DEC,Whoopng Cough,0.0,0.0,0.0
+2007,DEC,Meningitis,0.0,0.0,0.0
+2007,DEC,Tetenus,0.0,0.0,0.0
+2007,DEC,Poliomyelitis,0.0,0.0,0.0
+2007,DEC,chicken Pox,4.0,2.0,2.0
+2007,DEC,Measles,17.0,0.0,0.0
+2007,DEC,Infections Hepatitis,0.0,0.0,0.0
+2007,DEC,Mumps,35.0,7.0,9.0
+2007,DEC,Malaria,1589.0,837.0,1751.0
+2007,DEC,Gonorrhea,1.0,4.0,2.0
+2007,DEC,Urinary Tract Infections,43.0,29.0,40.0
+2007,DEC,Bilharzia,0.0,0.0,2.0
+2007,DEC,Intestinal Worms,248.0,140.0,428.0
+2007,DEC,Malnutrition,0.0,0.0,1.0
+2007,DEC,Anaemia,1.0,7.0,22.0
+2007,DEC,Eye Infections,43.0,34.0,32.0
+2007,DEC,Cataract,0.0,1.0,0.0
+2007,DEC,ear infectins,76.0,41.0,102.0
+2007,DEC,Dis. Of circulatory systems,32.0,0.0,2.0
+2007,DEC,Dis of Respiratory systems,994.0,270.0,939.0
+2007,DEC,Pneumonia,37.0,33.0,95.0
+2007,DEC,Abortion,5.0,1.0,9.0
+2007,DEC,Dis. Of peuperium & child birth,0.0,0.0,2.0
+2007,DEC,Neoplasms,0.0,0.0,0.0
+2007,DEC,Dis. Of blood & blood forming organs,2.0,1.0,0.0
+2007,DEC,mental Disorders,4.0,0.0,5.0
+2007,DEC,Dental disorders,15.0,18.0,38.0
+2007,DEC,Dis. Of the skin,228.0,97.0,357.0
+2007,DEC,Rheumatisim,183.0,105.0,121.0
+2007,DEC,Congential Anomalis,3.0,0.0,0.0
+2007,DEC,Pyrexia of unknown origin,1.0,0.0,5.0
+2007,DEC,Poisoning,1.0,0.0,0.0
+2007,DEC,Accidents ( fructures & Burns),68.0,17.0,78.0
+2007,DEC,Typhoid ,50.0,53.0,2.0
+2007,DEC,Amebiasis,0.0,54.0,17.0
+2007,DEC,Diabetes,0.0,7.0,0.0
+2007,DEC,Epilepsy,0.0,0.0,0.0
+2007,DEC,SYPHILIS,0.0,0.0,0.0
+2007,DEC,HIV ,0.0,0.0,0.0
+2007,DEC,Assault,39.0,0.0,21.0
+2007,DEC,Snake bite,0.0,0.0,0.0
+2007,DEC,Other bites,0.0,0.0,6.0
+2007,DEC,Dog bite,16.0,0.0,2.0
+2007,DEC,BRUCELLOSIS,0.0,3.0,1.0
+2007,DEC,All other diseases,508.0,137.0,101.0
+2007,DEC,TOTAL NEW CASES,4326.0,1959.0,4272.0
+2007,DEC,Re-attendances(Re-visits),931.0,236.0,937.0
+2007,DEC,REFERRALS,2.0,3.0,9.0
+2007,DEC,No. of first Attendances,1767.0,801.0,2220.0
+2007,DEC,Avrage dis. per Attendance,6.0,843.0,46.0
+2008,JAN,Diarhoheal Diseases,101.0,130.0,142.0
+2008,JAN,Tuberculosis,2.0,0.0,2.0
+2008,JAN,Leprosy,0.0,0.0,0.0
+2008,JAN,Whoopng Cough,0.0,0.0,0.0
+2008,JAN,Meningitis,0.0,0.0,0.0
+2008,JAN,Tetenus,0.0,0.0,0.0
+2008,JAN,Poliomyelitis,0.0,0.0,0.0
+2008,JAN,chicken Pox,2.0,7.0,4.0
+2008,JAN,Measles,8.0,0.0,1.0
+2008,JAN,Infections Hepatitis,0.0,0.0,0.0
+2008,JAN,Mumps,23.0,4.0,14.0
+2008,JAN,Malaria,2368.0,1039.0,2030.0
+2008,JAN,Gonorrhea,1.0,5.0,8.0
+2008,JAN,Urinary Tract Infections,64.0,41.0,53.0
+2008,JAN,Bilharzia,0.0,0.0,0.0
+2008,JAN,Intestinal Worms,620.0,361.0,547.0
+2008,JAN,Malnutrition,1.0,4.0,2.0
+2008,JAN,Anaemia,6.0,15.0,17.0
+2008,JAN,Eye Infections,56.0,60.0,55.0
+2008,JAN,Cataract,0.0,0.0,5.0
+2008,JAN,ear infectins,93.0,68.0,113.0
+2008,JAN,Dis. Of circulatory systems,17.0,0.0,1.0
+2008,JAN,Dis of Respiratory systems,1443.0,407.0,853.0
+2008,JAN,Pneumonia,53.0,56.0,118.0
+2008,JAN,Abortion,8.0,1.0,18.0
+2008,JAN,Dis. Of peuperium & child birth,0.0,0.0,13.0
+2008,JAN,Neoplasms,0.0,0.0,0.0
+2008,JAN,Dis. Of blood & blood forming organs,0.0,0.0,1.0
+2008,JAN,mental Disorders,4.0,1.0,11.0
+2008,JAN,Dental disorders,48.0,41.0,38.0
+2008,JAN,Dis. Of the skin,239.0,114.0,346.0
+2008,JAN,Rheumatisim,218.0,213.0,151.0
+2008,JAN,Congential Anomalis,0.0,0.0,0.0
+2008,JAN,Pyrexia of unknown origin,0.0,1.0,0.0
+2008,JAN,Poisoning,0.0,3.0,0.0
+2008,JAN,Accidents ( fructures & Burns),83.0,57.0,111.0
+2008,JAN,Typhoid ,44.0,62.0,7.0
+2008,JAN,Amebiasis,0.0,44.0,29.0
+2008,JAN,Diabetes,0.0,0.0,0.0
+2008,JAN,Epilepsy,0.0,0.0,0.0
+2008,JAN,SYPHILIS,0.0,0.0,0.0
+2008,JAN,HIV ,0.0,0.0,0.0
+2008,JAN,Assault,47.0,1.0,23.0
+2008,JAN,Snake bite,0.0,0.0,2.0
+2008,JAN,Other bites,19.0,2.0,1.0
+2008,JAN,foreigh body,7.0,2.0,0.0
+2008,JAN,Bilharzia,2.0,0.0,0.0
+2008,JAN,All other diseases,570.0,257.0,422.0
+2008,JAN,TOTAL NEW CASES,6001.0,3103.0,5151.0
+2008,JAN,Re-attendances(Re-visits),333.0,279.0,151.0
+2008,JAN,REFERRALS,14.0,0.0,8.0
+2008,JAN,No. of first Attendances,4194.0,1478.0,3423.0
+2008,JAN,Avrage dis. per Attendance,7.0,4.0,29.0
+2008,FEB,Diarhoheal Diseases,60.0,62.0,157.0
+2008,FEB,Tuberculosis,0.0,0.0,0.0
+2008,FEB,Leprosy,0.0,0.0,0.0
+2008,FEB,Whoopng Cough,0.0,0.0,0.0
+2008,FEB,Meningitis,0.0,0.0,0.0
+2008,FEB,Tetenus,0.0,1.0,0.0
+2008,FEB,Poliomyelitis,0.0,0.0,0.0
+2008,FEB,chicken Pox,9.0,4.0,18.0
+2008,FEB,Measles,0.0,1.0,1.0
+2008,FEB,Infections Hepatitis,0.0,0.0,0.0
+2008,FEB,Mumps,12.0,7.0,7.0
+2008,FEB,Malaria,2711.0,1335.0,2470.0
+2008,FEB,Gonorrhea,0.0,4.0,11.0
+2008,FEB,Urinary Tract Infections,47.0,37.0,65.0
+2008,FEB,Bilharzia,0.0,0.0,0.0
+2008,FEB,Intestinal Worms,654.0,385.0,759.0
+2008,FEB,Malnutrition,0.0,8.0,4.0
+2008,FEB,Anaemia,0.0,7.0,44.0
+2008,FEB,Eye Infections,48.0,39.0,66.0
+2008,FEB,Cataract,5.0,0.0,74.0
+2008,FEB,ear infectins,72.0,55.0,144.0
+2008,FEB,Dis. Of circulatory systems,0.0,0.0,3.0
+2008,FEB,Dis of Respiratory systems,1859.0,672.0,1014.0
+2008,FEB,Pneumonia,143.0,72.0,277.0
+2008,FEB,Abortion,0.0,0.0,11.0
+2008,FEB,Dis. Of peuperium & child birth,0.0,0.0,13.0
+2008,FEB,Neoplasms,0.0,0.0,0.0
+2008,FEB,Dis. Of blood & blood forming organs,0.0,0.0,1.0
+2008,FEB,mental Disorders,0.0,3.0,6.0
+2008,FEB,Dental disorders,45.0,24.0,59.0
+2008,FEB,Dis. Of the skin,233.0,126.0,451.0
+2008,FEB,Rheumatisim,263.0,203.0,254.0
+2008,FEB,Congential Anomalis,5.0,0.0,0.0
+2008,FEB,Pyrexia of unknown origin,7.0,2.0,1.0
+2008,FEB,Poisoning,1.0,1.0,1.0
+2008,FEB,Accidents ( fructures & Burns),55.0,38.0,151.0
+2008,FEB,Typhoid ,8.0,85.0,9.0
+2008,FEB,Amebiasis,0.0,42.0,47.0
+2008,FEB,Diabetes,0.0,0.0,0.0
+2008,FEB,Epilepsy,0.0,0.0,0.0
+2008,FEB,SYPHILIS,0.0,0.0,0.0
+2008,FEB,HIV ,0.0,0.0,0.0
+2008,FEB,Assault,27.0,5.0,19.0
+2008,FEB,Snake bite,0.0,0.0,0.0
+2008,FEB,Other bites,7.0,1.0,3.0
+2008,FEB,Brucellosis,0.0,48.0,0.0
+2008,FEB,All other diseases,630.0,750.0,459.0
+2008,FEB,TOTAL NEW CASES,6932.0,2837.0,6603.0
+2008,FEB,Re-attendances(Re-visits),691.0,211.0,424.0
+2008,FEB,REFERRALS,6.0,2.0,7.0
+2008,FEB,No. of first Attendances,4346.0,1199.0,4533.0
+2008,FEB,Avrage dis. per Attendance,0.0,0.0,
+2008,MAR,Diarhoheal Diseases,76.0,237.0,323.0
+2008,MAR,Tuberculosis,0.0,1.0,2.0
+2008,MAR,Leprosy,0.0,0.0,0.0
+2008,MAR,Whoopng Cough,0.0,0.0,0.0
+2008,MAR,Meningitis,0.0,0.0,0.0
+2008,MAR,Tetenus,0.0,0.0,0.0
+2008,MAR,Poliomyelitis,0.0,0.0,0.0
+2008,MAR,chicken Pox,8.0,14.0,24.0
+2008,MAR,Measles,3.0,3.0,3.0
+2008,MAR,Infections Hepatitis,0.0,0.0,0.0
+2008,MAR,Mumps,23.0,35.0,12.0
+2008,MAR,Malaria,1787.0,3283.0,3068.0
+2008,MAR,Gonorrhea,1.0,8.0,14.0
+2008,MAR,Urinary Tract Infections,34.0,102.0,104.0
+2008,MAR,Bilharzia,0.0,0.0,1.0
+2008,MAR,Intestinal Worms,336.0,642.0,822.0
+2008,MAR,Malnutrition,0.0,11.0,16.0
+2008,MAR,Anaemia,0.0,15.0,45.0
+2008,MAR,Eye Infections,57.0,120.0,122.0
+2008,MAR,Cataract,0.0,0.0,33.0
+2008,MAR,ear infectins,56.0,113.0,196.0
+2008,MAR,Dis. Of circulatory systems,3.0,6.0,2.0
+2008,MAR,Dis of Respiratory systems,1244.0,2201.0,1744.0
+2008,MAR,Pneumonia,37.0,86.0,307.0
+2008,MAR,Abortion,2.0,3.0,11.0
+2008,MAR,Dis. Of peuperium & child birth,1.0,1.0,9.0
+2008,MAR,Neoplasms,0.0,0.0,0.0
+2008,MAR,Dis. Of blood & blood forming organs,0.0,0.0,0.0
+2008,MAR,mental Disorders,4.0,4.0,11.0
+2008,MAR,Dental disorders,11.0,52.0,62.0
+2008,MAR,Dis. Of the skin,204.0,300.0,485.0
+2008,MAR,Rheumatisim,111.0,283.0,349.0
+2008,MAR,Congential Anomalis,0.0,13.0,12.0
+2008,MAR,Pyrexia of unknown origin,0.0,5.0,6.0
+2008,MAR,Poisoning,1.0,4.0,7.0
+2008,MAR,Accidents ( fructures & Burns),45.0,109.0,183.0
+2008,MAR,Typhoid ,10.0,115.0,115.0
+2008,MAR,Amebiasis,0.0,27.0,73.0
+2008,MAR,Diabetes,0.0,0.0,0.0
+2008,MAR,Epilepsy,0.0,0.0,0.0
+2008,MAR,SYPHILIS,0.0,0.0,0.0
+2008,MAR,HIV ,0.0,0.0,0.0
+2008,MAR,Assault,62.0,72.0,30.0
+2008,MAR,Snake bite,0.0,0.0,0.0
+2008,MAR,Other bites,5.0,7.0,4.0
+2008,MAR,Foreign body,6.0,6.0,0.0
+2008,MAR,All other diseases,396.0,624.0,613.0
+2008,MAR,TOTAL NEW CASES,4572.0,7397.0,8062.0
+2008,MAR,Re-attendances(Re-visits),560.0,1403.0,1170.0
+2008,MAR,REFERRALS,0.0,7.0,20.0
+2008,MAR,No. of first Attendances,2788.0,5048.0,5221.0
+2008,MAR,Avrage dis. per Attendance,0.0,0.0,0.0
+2008,APR,Diarhoheal Diseases,56.0,119.0,138.0
+2008,APR,Tuberculosis,1.0,0.0,1.0
+2008,APR,Leprosy,0.0,0.0,0.0
+2008,APR,Whoopng Cough,0.0,0.0,0.0
+2008,APR,Meningitis,0.0,0.0,0.0
+2008,APR,Tetenus,0.0,0.0,0.0
+2008,APR,Poliomyelitis,0.0,0.0,0.0
+2008,APR,chicken Pox,10.0,17.0,10.0
+2008,APR,Measles,5.0,0.0,0.0
+2008,APR,Infections Hepatitis,0.0,0.0,0.0
+2008,APR,Mumps,28.0,15.0,5.0
+2008,APR,Malaria,1821.0,1005.0,2042.0
+2008,APR,Gonorrhea,1.0,6.0,1.0
+2008,APR,Urinary Tract Infections,29.0,24.0,73.0
+2008,APR,Bilharzia,0.0,0.0,1.0
+2008,APR,Intestinal Worms,267.0,148.0,530.0
+2008,APR,Malnutrition,0.0,0.0,0.0
+2008,APR,Anaemia,6.0,10.0,48.0
+2008,APR,Eye Infections,55.0,40.0,61.0
+2008,APR,Cataract,0.0,0.0,37.0
+2008,APR,ear infectins,79.0,65.0,128.0
+2008,APR,Dis. Of circulatory systems,256.0,0.0,5.0
+2008,APR,Dis of Respiratory systems,1134.0,493.0,969.0
+2008,APR,Pneumonia,41.0,41.0,313.0
+2008,APR,Abortion,2.0,0.0,3.0
+2008,APR,Dis. Of peuperium & child birth,2.0,0.0,9.0
+2008,APR,Neoplasms,0.0,0.0,0.0
+2008,APR,Dis. Of blood & blood forming organs,0.0,0.0,0.0
+2008,APR,mental Disorders,7.0,2.0,18.0
+2008,APR,Dental disorders,80.0,19.0,25.0
+2008,APR,Dis. Of the skin,162.0,134.0,244.0
+2008,APR,Rheumatisim,119.0,110.0,132.0
+2008,APR,Congential Anomalis,0.0,0.0,0.0
+2008,APR,Pyrexia of unknown origin,0.0,0.0,0.0
+2008,APR,Poisoning,0.0,1.0,0.0
+2008,APR,Accidents ( fructures & Burns),62.0,38.0,100.0
+2008,APR,Typhoid ,2.0,65.0,17.0
+2008,APR,Amebiasis,0.0,40.0,58.0
+2008,APR,Diabetes,0.0,0.0,0.0
+2008,APR,Epilepsy,0.0,0.0,0.0
+2008,APR,SYPHILIS,0.0,0.0,0.0
+2008,APR,HIV ,0.0,0.0,0.0
+2008,APR,Assault,52.0,0.0,9.0
+2008,APR,Snake bite,17.0,1.0,0.0
+2008,APR,Other bites,0.0,4.0,3.0
+2008,APR,Brucellosis.,0.0,4.0,0.0
+2008,APR,All other diseases,382.0,158.0,351.0
+2008,APR,TOTAL NEW CASES,4726.0,2565.0,5445.0
+2008,APR,Re-attendances(Re-visits),933.0,302.0,601.0
+2008,APR,REFERRALS,0.0,2.0,7.0
+2008,APR,No. of first Attendances,3026.0,1202.0,2898.0
+2008,APR,Avrage dis. per Attendance,0.0,0.0,0.0
+2008,MAY,Diarhoheal Diseases,81.0,128.0,133.0
+2008,MAY,Tuberculosis,0.0,0.0,1.0
+2008,MAY,Leprosy,0.0,0.0,0.0
+2008,MAY,Whoopng Cough,0.0,0.0,0.0
+2008,MAY,Meningitis,0.0,0.0,0.0
+2008,MAY,Tetenus,0.0,0.0,0.0
+2008,MAY,Poliomyelitis,0.0,0.0,0.0
+2008,MAY,chicken Pox,14.0,7.0,4.0
+2008,MAY,Measles,1.0,0.0,2.0
+2008,MAY,Infections Hepatitis,0.0,0.0,0.0
+2008,MAY,Mumps,25.0,24.0,9.0
+2008,MAY,Malaria,2501.0,1272.0,2456.0
+2008,MAY,Gonorrhea,0.0,2.0,8.0
+2008,MAY,Urinary Tract Infections,53.0,41.0,65.0
+2008,MAY,Bilharzia,0.0,0.0,1.0
+2008,MAY,Intestinal Worms,539.0,412.0,751.0
+2008,MAY,Malnutrition,0.0,4.0,3.0
+2008,MAY,Anaemia,0.0,14.0,26.0
+2008,MAY,Eye Infections,46.0,57.0,90.0
+2008,MAY,Cataract,2.0,0.0,2.0
+2008,MAY,ear infectins,77.0,85.0,109.0
+2008,MAY,Dis. Of circulatory systems,8.0,0.0,7.0
+2008,MAY,Dis of Respiratory systems,1145.0,517.0,1059.0
+2008,MAY,Pneumonia,116.0,43.0,326.0
+2008,MAY,Abortion,5.0,1.0,7.0
+2008,MAY,Dis. Of peuperium & child birth,1.0,3.0,3.0
+2008,MAY,Neoplasms,1.0,0.0,1.0
+2008,MAY,Dis. Of blood & blood forming organs,0.0,1.0,3.0
+2008,MAY,mental Disorders,6.0,6.0,5.0
+2008,MAY,Dental disorders,48.0,24.0,39.0
+2008,MAY,Dis. Of the skin,201.0,145.0,389.0
+2008,MAY,Rheumatisim,92.0,191.0,187.0
+2008,MAY,Congential Anomalis,0.0,1.0,0.0
+2008,MAY,Pyrexia of unknown origin,0.0,0.0,0.0
+2008,MAY,Poisoning,0.0,0.0,0.0
+2008,MAY,Accidents ( fructures & Burns),60.0,36.0,122.0
+2008,MAY,Typhoid ,29.0,118.0,13.0
+2008,MAY,Amebiasis,0.0,47.0,43.0
+2008,MAY,Diabetes,0.0,0.0,0.0
+2008,MAY,Epilepsy,0.0,0.0,0.0
+2008,MAY,SYPHILIS,0.0,0.0,0.0
+2008,MAY,HIV ,0.0,0.0,0.0
+2008,MAY,Assault,59.0,2.0,13.0
+2008,MAY,Snake bite,13.0,4.0,1.0
+2008,MAY,Other bites,0.0,3.0,4.0
+2008,MAY,All other diseases,536.0,129.0,508.0
+2008,MAY,TOTAL NEW CASES,5496.0,3323.0,6416.0
+2008,MAY,Re-attendances(Re-visits),1295.0,523.0,779.0
+2008,MAY,REFERRALS,0.0,4.0,4.0
+2008,MAY,No. of first Attendances,2948.0,2045.0,3621.0
+2008,MAY,Avrage dis. per Attendance,0.0,0.0,0.0
+2008,JUN,Diarhoheal Diseases,54.0,93.0,123.0
+2008,JUN,Tuberculosis,0.0,0.0,3.0
+2008,JUN,Leprosy,0.0,0.0,0.0
+2008,JUN,Whoopng Cough,0.0,0.0,0.0
+2008,JUN,Meningitis,0.0,0.0,0.0
+2008,JUN,Tetenus,0.0,0.0,0.0
+2008,JUN,Poliomyelitis,0.0,0.0,0.0
+2008,JUN,chicken Pox,19.0,23.0,12.0
+2008,JUN,Measles,1.0,0.0,0.0
+2008,JUN,Infections Hepatitis,0.0,0.0,1.0
+2008,JUN,Mumps,35.0,18.0,10.0
+2008,JUN,Malaria,2238.0,1280.0,1890.0
+2008,JUN,Gonorrhea,5.0,5.0,11.0
+2008,JUN,Urinary Tract Infections,51.0,31.0,55.0
+2008,JUN,Bilharzia,0.0,0.0,0.0
+2008,JUN,Intestinal Worms,475.0,388.0,609.0
+2008,JUN,Malnutrition,2.0,1.0,28.0
+2008,JUN,Anaemia,0.0,22.0,25.0
+2008,JUN,Eye Infections,74.0,23.0,92.0
+2008,JUN,Cataract,1.0,0.0,0.0
+2008,JUN,ear infectins,87.0,56.0,90.0
+2008,JUN,Dis. Of circulatory systems,0.0,0.0,0.0
+2008,JUN,Dis of Respiratory systems,1492.0,549.0,933.0
+2008,JUN,Pneumonia,104.0,48.0,149.0
+2008,JUN,Abortion,11.0,0.0,8.0
+2008,JUN,Dis. Of peuperium & child birth,1.0,0.0,6.0
+2008,JUN,Neoplasms,0.0,0.0,3.0
+2008,JUN,Dis. Of blood & blood forming organs,0.0,0.0,0.0
+2008,JUN,mental Disorders,5.0,3.0,16.0
+2008,JUN,Dental disorders,32.0,42.0,61.0
+2008,JUN,Dis. Of the skin,120.0,129.0,319.0
+2008,JUN,Rheumatisim,199.0,178.0,182.0
+2008,JUN,Congential Anomalis,1.0,0.0,1.0
+2008,JUN,Pyrexia of unknown origin,2.0,0.0,0.0
+2008,JUN,Poisoning,0.0,5.0,0.0
+2008,JUN,Accidents ( fructures & Burns),62.0,38.0,122.0
+2008,JUN,Typhoid ,5.0,134.0,29.0
+2008,JUN,Amebiasis,0.0,55.0,61.0
+2008,JUN,Diabetes,0.0,0.0,0.0
+2008,JUN,Epilepsy,0.0,0.0,0.0
+2008,JUN,SYPHILIS,0.0,0.0,0.0
+2008,JUN,HIV ,0.0,0.0,0.0
+2008,JUN,Assault,38.0,0.0,27.0
+2008,JUN,Snake bite,9.0,9.0,1.0
+2008,JUN,Other bites,0.0,5.0,1.0
+2008,JUN,FOREIGN BODY,0.0,1.0,0.0
+2008,JUN,All other diseases,468.0,82.0,459.0
+2008,JUN,TOTAL NEW CASES,5190.0,2609.0,5326.0
+2008,JUN,Re-attendances(Re-visits),1334.0,559.0,775.0
+2008,JUN,REFERRALS,2.0,12.0,8.0
+2008,JUN,No. of first Attendances,3013.0,1553.0,3028.0
+2008,JUN,Avrage dis. per Attendance,0.0,0.0,0.0
+2008,JUL,Diarhoheal Diseases,176.0,166.0,142.0
+2008,JUL,Tuberculosis,0.0,0.0,3.0
+2008,JUL,Leprosy,0.0,0.0,0.0
+2008,JUL,Whoopng Cough,0.0,0.0,0.0
+2008,JUL,Meningitis,0.0,0.0,0.0
+2008,JUL,Tetenus,0.0,0.0,0.0
+2008,JUL,Poliomyelitis,0.0,0.0,0.0
+2008,JUL,chicken Pox,96.0,48.0,56.0
+2008,JUL,Measles,5.0,0.0,0.0
+2008,JUL,Infections Hepatitis,0.0,2.0,1.0
+2008,JUL,Mumps,56.0,23.0,1.0
+2008,JUL,Malaria,3125.0,1369.0,2403.0
+2008,JUL,Gonorrhea,1.0,0.0,16.0
+2008,JUL,Urinary Tract Infections,74.0,27.0,72.0
+2008,JUL,Bilharzia,0.0,0.0,0.0
+2008,JUL,Intestinal Worms,588.0,389.0,702.0
+2008,JUL,Malnutrition,2.0,0.0,1.0
+2008,JUL,Anaemia,1.0,8.0,17.0
+2008,JUL,Eye Infections,106.0,52.0,213.0
+2008,JUL,Cataract,1.0,0.0,0.0
+2008,JUL,ear infectins,98.0,35.0,142.0
+2008,JUL,Dis. Of circulatory systems,3.0,0.0,2.0
+2008,JUL,Dis of Respiratory systems,2103.0,793.0,986.0
+2008,JUL,Pneumonia,258.0,37.0,219.0
+2008,JUL,Abortion,34.0,0.0,3.0
+2008,JUL,Dis. Of peuperium & child birth,0.0,0.0,4.0
+2008,JUL,Neoplasms,0.0,0.0,0.0
+2008,JUL,Dis. Of blood & blood forming organs,0.0,1.0,0.0
+2008,JUL,mental Disorders,2.0,0.0,21.0
+2008,JUL,Dental disorders,47.0,47.0,157.0
+2008,JUL,Dis. Of the skin,158.0,147.0,368.0
+2008,JUL,Rheumatisim,273.0,165.0,233.0
+2008,JUL,Congential Anomalis,2.0,0.0,0.0
+2008,JUL,Pyrexia of unknown origin,2.0,0.0,0.0
+2008,JUL,Poisoning,2.0,2.0,0.0
+2008,JUL,Accidents ( fructures & Burns),33.0,52.0,149.0
+2008,JUL,Typhoid ,15.0,105.0,36.0
+2008,JUL,Amebiasis,0.0,61.0,86.0
+2008,JUL,Diabetes,0.0,0.0,0.0
+2008,JUL,Epilepsy,0.0,0.0,0.0
+2008,JUL,SYPHILIS,0.0,0.0,0.0
+2008,JUL,HIV ,0.0,0.0,0.0
+2008,JUL,Assault,72.0,1.0,14.0
+2008,JUL,Snake bite,0.0,1.0,0.0
+2008,JUL,Other bites,10.0,5.0,1.0
+2008,JUL,All other diseases,561.0,90.0,555.0
+2008,JUL,TOTAL NEW CASES,7299.0,2808.0,6595.0
+2008,JUL,Re-attendances(Re-visits),1883.0,680.0,1091.0
+2008,JUL,REFERRALS,7.0,3.0,4.0
+2008,JUL,No. of first Attendances,3412.0,2202.0,3287.0
+2008,JUL,Avrage dis. per Attendance,0.0,0.0,0.0
+2008,AUG,Diarhoheal Diseases,93.0,190.0,286.0
+2008,AUG,Tuberculosis,0.0,0.0,0.0
+2008,AUG,Leprosy,0.0,0.0,0.0
+2008,AUG,Whoopng Cough,0.0,0.0,0.0
+2008,AUG,Meningitis,0.0,0.0,0.0
+2008,AUG,Tetenus,0.0,0.0,0.0
+2008,AUG,Poliomyelitis,0.0,0.0,0.0
+2008,AUG,chicken Pox,58.0,105.0,118.0
+2008,AUG,Measles,13.0,13.0,2.0
+2008,AUG,Infections Hepatitis,0.0,0.0,3.0
+2008,AUG,Mumps,3.0,27.0,6.0
+2008,AUG,Malaria,1302.0,2849.0,2516.0
+2008,AUG,Gonorrhea,2.0,3.0,4.0
+2008,AUG,Urinary Tract Infections,30.0,69.0,133.0
+2008,AUG,Bilharzia,0.0,0.0,1.0
+2008,AUG,Intestinal Worms,242.0,540.0,925.0
+2008,AUG,Malnutrition,0.0,3.0,6.0
+2008,AUG,Anaemia,0.0,9.0,17.0
+2008,AUG,Eye Infections,49.0,122.0,147.0
+2008,AUG,Cataract,0.0,1.0,1.0
+2008,AUG,ear infectins,23.0,83.0,124.0
+2008,AUG,Dis. Of circulatory systems,0.0,3.0,3.0
+2008,AUG,Dis of Respiratory systems,1101.0,1799.0,1100.0
+2008,AUG,Pneumonia,32.0,104.0,296.0
+2008,AUG,Abortion,0.0,0.0,8.0
+2008,AUG,Dis. Of peuperium & child birth,0.0,0.0,0.0
+2008,AUG,Neoplasms,0.0,0.0,0.0
+2008,AUG,Dis. Of blood & blood forming organs,0.0,0.0,2.0
+2008,AUG,mental Disorders,4.0,5.0,4.0
+2008,AUG,Dental disorders,15.0,101.0,242.0
+2008,AUG,Dis. Of the skin,170.0,218.0,271.0
+2008,AUG,Rheumatisim,131.0,318.0,283.0
+2008,AUG,Congential Anomalis,0.0,0.0,0.0
+2008,AUG,Pyrexia of unknown origin,0.0,5.0,6.0
+2008,AUG,Poisoning,0.0,2.0,1.0
+2008,AUG,Accidents ( fructures & Burns),51.0,101.0,165.0
+2008,AUG,Typhoid ,7.0,111.0,159.0
+2008,AUG,Amebiasis,0.0,48.0,48.0
+2008,AUG,Diabetes,0.0,0.0,0.0
+2008,AUG,Epilepsy,0.0,0.0,0.0
+2008,AUG,SYPHILIS,0.0,0.0,0.0
+2008,AUG,HIV ,0.0,0.0,0.0
+2008,AUG,Assault,93.0,97.0,34.0
+2008,AUG,Snake bite,9.0,9.0,0.0
+2008,AUG,Other bites,0.0,9.0,9.0
+2008,AUG,FOREIGN BODY,0.0,3.0,4.0
+2008,AUG,All other diseases,368.0,567.0,416.0
+2008,AUG,TOTAL NEW CASES,3696.0,6965.0,6070.0
+2008,AUG,Re-attendances(Re-visits),874.0,2168.0,1325.0
+2008,AUG,REFERRALS,2.0,11.0,24.0
+2008,AUG,No. of first Attendances,1937.0,3661.0,4135.0
+2008,AUG,Avrage dis. per Attendance,0.0,1.0,1.0
+2008,SEP,Diarhoheal Diseases,151.0,168.0,168.0
+2008,SEP,Tuberculosis,0.0,0.0,0.0
+2008,SEP,Leprosy,0.0,0.0,0.0
+2008,SEP,Whoopng Cough,0.0,0.0,0.0
+2008,SEP,Meningitis,0.0,0.0,0.0
+2008,SEP,Tetenus,0.0,0.0,0.0
+2008,SEP,Poliomyelitis,0.0,0.0,0.0
+2008,SEP,chicken Pox,33.0,54.0,70.0
+2008,SEP,Measles,22.0,1.0,3.0
+2008,SEP,Infections Hepatitis,0.0,0.0,0.0
+2008,SEP,Mumps,4.0,1.0,4.0
+2008,SEP,Malaria,2133.0,1222.0,1916.0
+2008,SEP,Gonorrhea,0.0,7.0,5.0
+2008,SEP,Urinary Tract Infections,30.0,45.0,83.0
+2008,SEP,Bilharzia,0.0,0.0,0.0
+2008,SEP,Intestinal Worms,335.0,654.0,622.0
+2008,SEP,Malnutrition,2.0,2.0,8.0
+2008,SEP,Anaemia,1.0,11.0,22.0
+2008,SEP,Eye Infections,93.0,49.0,161.0
+2008,SEP,Cataract,1.0,3.0,1.0
+2008,SEP,ear infectins,37.0,76.0,116.0
+2008,SEP,Dis. Of circulatory systems,11.0,3.0,117.0
+2008,SEP,Dis of Respiratory systems,1559.0,647.0,713.0
+2008,SEP,Pneumonia,68.0,38.0,68.0
+2008,SEP,Abortion,1.0,0.0,4.0
+2008,SEP,Dis. Of peuperium & child birth,1.0,0.0,2.0
+2008,SEP,Neoplasms,0.0,0.0,0.0
+2008,SEP,Dis. Of blood & blood forming organs,0.0,0.0,5.0
+2008,SEP,mental Disorders,3.0,4.0,12.0
+2008,SEP,Dental disorders,68.0,58.0,172.0
+2008,SEP,Dis. Of the skin,242.0,136.0,392.0
+2008,SEP,Rheumatisim,95.0,219.0,178.0
+2008,SEP,Congential Anomalis,0.0,0.0,0.0
+2008,SEP,Pyrexia of unknown origin,0.0,0.0,0.0
+2008,SEP,Poisoning,1.0,0.0,1.0
+2008,SEP,Accidents ( fructures & Burns),53.0,56.0,154.0
+2008,SEP,Typhoid ,0.0,119.0,39.0
+2008,SEP,Amebiasis,0.0,62.0,0.0
+2008,SEP,Diabetes,0.0,0.0,0.0
+2008,SEP,Epilepsy,0.0,0.0,0.0
+2008,SEP,SYPHILIS,0.0,0.0,0.0
+2008,SEP,HIV ,0.0,0.0,0.0
+2008,SEP,Assault,36.0,5.0,24.0
+2008,SEP,Snake bite,4.0,0.0,2.0
+2008,SEP,Other bites,0.0,0.0,0.0
+2008,SEP,Dog bite,3.0,1.0,0.0
+2008,SEP,All other diseases,604.0,174.0,356.0
+2008,SEP,TOTAL NEW CASES,4444.0,2409.0,3581.0
+2008,SEP,Re-attendances(Re-visits),1274.0,474.0,871.0
+2008,SEP,REFERRALS,0.0,7.0,1.0
+2008,SEP,No. of first Attendances,2252.0,1657.0,3079.0
+2008,SEP,Average dis. per Attendance,0.0,0.0,0.0
+2008,OCT,Diarhoheal Diseases,100.0,243.0,288.0
+2008,OCT,Tuberculosis,0.0,0.0,0.0
+2008,OCT,Leprosy,0.0,0.0,0.0
+2008,OCT,Whoopng Cough,0.0,0.0,0.0
+2008,OCT,Meningitis,0.0,0.0,0.0
+2008,OCT,Tetenus,0.0,0.0,0.0
+2008,OCT,Poliomyelitis,0.0,0.0,0.0
+2008,OCT,chicken Pox,40.0,74.0,126.0
+2008,OCT,Measles,2.0,2.0,0.0
+2008,OCT,Infections Hepatitis,0.0,0.0,0.0
+2008,OCT,Mumps,6.0,13.0,9.0
+2008,OCT,Malaria,1234.0,2707.0,3019.0
+2008,OCT,Gonorrhea,0.0,4.0,10.0
+2008,OCT,Urinary Tract Infections,54.0,120.0,97.0
+2008,OCT,Bilharzia,0.0,1.0,1.0
+2008,OCT,Intestinal Worms,255.0,587.0,1152.0
+2008,OCT,Malnutrition,0.0,11.0,13.0
+2008,OCT,Anaemia,1.0,10.0,16.0
+2008,OCT,Eye Infections,51.0,118.0,218.0
+2008,OCT,Cataract,0.0,26.0,69.0
+2008,OCT,ear infectins,43.0,126.0,184.0
+2008,OCT,Dis. Of circulatory systems,4.0,4.0,184.0
+2008,OCT,Dis of Respiratory systems,1013.0,1798.0,1391.0
+2008,OCT,Pneumonia,10.0,67.0,95.0
+2008,OCT,Abortion,1.0,3.0,7.0
+2008,OCT,Dis. Of peuperium & child birth,1.0,5.0,4.0
+2008,OCT,Neoplasms,0.0,0.0,0.0
+2008,OCT,Dis. Of blood & blood forming organs,0.0,0.0,0.0
+2008,OCT,mental Disorders,3.0,6.0,13.0
+2008,OCT,Dental disorders,9.0,44.0,162.0
+2008,OCT,Dis. Of the skin,173.0,310.0,443.0
+2008,OCT,Rheumatisim,150.0,303.0,356.0
+2008,OCT,Congential Anomalis,0.0,0.0,0.0
+2008,OCT,Pyrexia of unknown origin,0.0,1.0,1.0
+2008,OCT,Poisoning,0.0,3.0,4.0
+2008,OCT,Accidents ( fructures & Burns),49.0,108.0,162.0
+2008,OCT,Typhoid ,8.0,79.0,157.0
+2008,OCT,Amebiasis,0.0,38.0,38.0
+2008,OCT,Diabetes,0.0,2.0,2.0
+2008,OCT,Epilepsy,0.0,0.0,0.0
+2008,OCT,SYPHILIS,0.0,0.0,0.0
+2008,OCT,HIV ,0.0,0.0,0.0
+2008,OCT,Assault,0.0,2.0,34.0
+2008,OCT,Snake bite,0.0,2.0,2.0
+2008,OCT,Other bites,6.0,10.0,5.0
+2008,OCT,foreign body,10.0,10.0,12.0
+2008,OCT,All other diseases,396.0,671.0,629.0
+2008,OCT,TOTAL NEW CASES,3732.0,7428.0,7958.0
+2008,OCT,Re-attendances(Re-visits),1033.0,2062.0,1711.0
+2008,OCT,REFERRALS,55.0,68.0,89.0
+2008,OCT,No. of first Attendances,1908.0,3970.0,4496.0
+2008,OCT,Avrage dis. per Attendance,0.0,1.0,2.0
+2008,NOV,Diarhoheal Diseases,157.0,135.0,229.0
+2008,NOV,Tuberculosis,1.0,0.0,2.0
+2008,NOV,Leprosy,0.0,0.0,0.0
+2008,NOV,Whoopng Cough,0.0,0.0,0.0
+2008,NOV,Meningitis,0.0,0.0,0.0
+2008,NOV,Tetenus,0.0,0.0,0.0
+2008,NOV,Poliomyelitis,0.0,0.0,0.0
+2008,NOV,chicken Pox,32.0,31.0,26.0
+2008,NOV,Measles,1.0,0.0,0.0
+2008,NOV,Infections Hepatitis,0.0,0.0,0.0
+2008,NOV,Mumps,15.0,3.0,1.0
+2008,NOV,Malaria,1796.0,933.0,1464.0
+2008,NOV,Gonorrhea,0.0,3.0,3.0
+2008,NOV,Urinary Tract Infections,76.0,45.0,42.0
+2008,NOV,Bilharzia,0.0,2.0,0.0
+2008,NOV,Intestinal Worms,290.0,451.0,419.0
+2008,NOV,Malnutrition,0.0,5.0,2.0
+2008,NOV,Anaemia,5.0,2.0,4.0
+2008,NOV,Eye Infections,47.0,51.0,89.0
+2008,NOV,Cataract,0.0,0.0,4.0
+2008,NOV,ear infectins,68.0,83.0,92.0
+2008,NOV,Dis. Of circulatory systems,0.0,0.0,20.0
+2008,NOV,Dis of Respiratory systems,1064.0,580.0,527.0
+2008,NOV,Pneumonia,43.0,53.0,75.0
+2008,NOV,Abortion,5.0,1.0,5.0
+2008,NOV,Dis. Of peuperium & child birth,0.0,1.0,5.0
+2008,NOV,Neoplasms,0.0,0.0,0.0
+2008,NOV,Dis. Of blood & blood forming organs,0.0,1.0,4.0
+2008,NOV,mental Disorders,9.0,5.0,4.0
+2008,NOV,Dental disorders,16.0,24.0,106.0
+2008,NOV,Dis. Of the skin,185.0,147.0,291.0
+2008,NOV,Rheumatisim,192.0,150.0,172.0
+2008,NOV,Congential Anomalis,0.0,0.0,0.0
+2008,NOV,Pyrexia of unknown origin,0.0,2.0,0.0
+2008,NOV,Poisoning,1.0,2.0,2.0
+2008,NOV,Accidents ( fructures & Burns),62.0,72.0,70.0
+2008,NOV,Typhoid ,2.0,88.0,46.0
+2008,NOV,Amebiasis,0.0,27.0,51.0
+2008,NOV,Diabetes,0.0,0.0,0.0
+2008,NOV,Epilepsy,0.0,0.0,0.0
+2008,NOV,SYPHILIS,0.0,0.0,0.0
+2008,NOV,HIV ,0.0,0.0,0.0
+2008,NOV,Assault,42.0,0.0,34.0
+2008,NOV,Snake bite,0.0,5.0,2.0
+2008,NOV,Other bites,34.0,33.0,3.0
+2008,NOV,All other diseases,440.0,196.0,142.0
+2008,NOV,TOTAL NEW CASES,3762.0,2421.0,3928.0
+2008,NOV,Re-attendances(Re-visits),1478.0,704.0,572.0
+2008,NOV,REFERRALS,6.0,3.0,0.0
+2008,NOV,No. of first Attendances,2001.0,1914.0,1674.0
+2008,NOV,Avrage dis. per Attendance,0.0,,303.0
+2008,DEC,Diarhoheal Diseases,111.0,90.0,59.0
+2008,DEC,Tuberculosis,0.0,2.0,3.0
+2008,DEC,Leprosy,0.0,0.0,0.0
+2008,DEC,Whoopng Cough,0.0,0.0,0.0
+2008,DEC,Meningitis,0.0,0.0,0.0
+2008,DEC,Tetenus,0.0,0.0,0.0
+2008,DEC,Poliomyelitis,0.0,0.0,0.0
+2008,DEC,chicken Pox,18.0,8.0,12.0
+2008,DEC,Measles,0.0,1.0,0.0
+2008,DEC,Infections Hepatitis,0.0,0.0,0.0
+2008,DEC,Mumps,7.0,0.0,4.0
+2008,DEC,Malaria,2191.0,1077.0,1503.0
+2008,DEC,Gonorrhea,4.0,2.0,7.0
+2008,DEC,Urinary Tract Infections,57.0,49.0,44.0
+2008,DEC,Bilharzia,0.0,1.0,0.0
+2008,DEC,Intestinal Worms,442.0,434.0,406.0
+2008,DEC,Malnutrition,0.0,11.0,1.0
+2008,DEC,Anaemia,2.0,23.0,11.0
+2008,DEC,Eye Infections,67.0,24.0,68.0
+2008,DEC,Cataract,1.0,0.0,0.0
+2008,DEC,ear infectins,59.0,82.0,87.0
+2008,DEC,Dis. Of circulatory systems,0.0,4.0,32.0
+2008,DEC,Dis of Respiratory systems,771.0,419.0,429.0
+2008,DEC,Pneumonia,44.0,31.0,65.0
+2008,DEC,Abortion,4.0,2.0,3.0
+2008,DEC,Dis. Of peuperium & child birth,0.0,0.0,8.0
+2008,DEC,Neoplasms,0.0,0.0,0.0
+2008,DEC,Dis. Of blood & blood forming organs,0.0,0.0,0.0
+2008,DEC,mental Disorders,0.0,0.0,0.0
+2008,DEC,Dental disorders,0.0,0.0,0.0
+2008,DEC,Dis. Of the skin,0.0,0.0,0.0
+2008,DEC,Rheumatisim,0.0,0.0,0.0
+2008,DEC,Congential Anomalis,0.0,0.0,0.0
+2008,DEC,Pyrexia of unknown origin,0.0,0.0,0.0
+2008,DEC,Poisoning,0.0,0.0,0.0
+2008,DEC,Accidents ( fructures & Burns),0.0,0.0,0.0
+2008,DEC,Typhoid ,0.0,0.0,0.0
+2008,DEC,Amebiasis,0.0,0.0,0.0
+2008,DEC,Diabetes,0.0,0.0,0.0
+2008,DEC,Epilepsy,0.0,0.0,0.0
+2008,DEC,SYPHILIS,0.0,0.0,0.0
+2008,DEC,HIV ,0.0,0.0,0.0
+2008,DEC,Assault,0.0,0.0,0.0
+2008,DEC,Snake bite,0.0,0.0,0.0
+2008,DEC,Other bites,0.0,0.0,0.0
+2008,DEC,Dog bite,0.0,0.0,0.0
+2008,DEC,BRUCELLOSIS,0.0,0.0,0.0
+2008,DEC,All other diseases,0.0,0.0,0.0
+2008,DEC,TOTAL NEW CASES,0.0,0.0,0.0
+2008,DEC,Re-attendances(Re-visits),0.0,0.0,0.0
+2008,DEC,REFERRALS,0.0,0.0,0.0
+2008,DEC,No. of first Attendances,0.0,0.0,0.0
+2008,DEC,Avrage dis. per Attendance,0.0,0.0,0.0
